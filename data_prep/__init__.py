@@ -1,1 +1,1 @@
-__app__ = ["download", "download_from_noaa"]
+__app__ = ["download", "download_from_noaa", "download_from_jsoc_stanford_hmi"]
