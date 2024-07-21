@@ -3,8 +3,6 @@ import time
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 
 
 class SeleniumScraper:
@@ -27,8 +25,7 @@ class SeleniumScraper:
     chrome_options.add_argument(
       "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     )
-    service = Service(ChromeDriverManager().install())
-    return webdriver.Chrome(service=service, options=chrome_options)
+    return webdriver.Chrome(options=chrome_options)
 
   def human_like_scroll(self, speed):
     last_height = self.driver.execute_script("return document.body.scrollHeight")
