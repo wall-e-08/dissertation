@@ -1,6 +1,14 @@
 from celery import Celery, Task
 
-app = Celery('download_task', broker='redis://localhost:6379')
+app = Celery('task', broker='redis://localhost:6379/0', backend='redis://localhost:6379/0')
+
+app.conf.update(
+  task_serializer='json',
+  accept_content=['json'],
+  result_serializer='json',
+  timezone='UTC',
+  enable_utc=True,
+)
 
 class CallbackTask(Task):
   def on_success(self, retval, task_id, args, kwargs):
@@ -20,3 +28,6 @@ class CallbackTask(Task):
     kwargs – Original keyword arguments for the task that failed.
     '''
     print(f"Failed task {task_id}", exc)
+
+
+import download.task

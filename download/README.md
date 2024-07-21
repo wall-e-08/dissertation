@@ -16,7 +16,12 @@ pip install celery redis
 export PYTHONPATH=/home/debashis/works/dissertation:$PYTHONPATH
 ```
 ### Run celery worker from project directory
- - Celery worker:
+ - Start celery task queue:
 ```bash
-celery -A celery_app.task worker --concurrency=1 -l INFO
+celery -A celery_app worker --concurrency=1 -l INFO
+ 
+```
+ - Purge all task:
+```bash
+celery -A celery_app purge -f
 ```
