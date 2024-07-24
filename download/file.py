@@ -14,7 +14,7 @@ def from_url(url, save_directory, base_path,
 
   # Find the specific section with css id
   try:
-    target_section = soup.find(bs4kwargs)
+    target_section = soup.find(**bs4kwargs)
   except:
     print(f"Error: wrong input '{bs4kwargs}'")
     return

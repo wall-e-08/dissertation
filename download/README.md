@@ -25,3 +25,7 @@ celery -A celery_app worker --concurrency=1 -l INFO
 ```bash
 celery -A celery_app purge -f
 ```
+ - Check pending task:
+```bash
+celery -A celery_app inspect active
+```

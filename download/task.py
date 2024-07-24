@@ -1,5 +1,4 @@
 import os
-import pandas as pd
 import requests
 
 from bs4 import BeautifulSoup
@@ -7,6 +6,7 @@ from celery_app import app, CallbackTask
 from download.selenium_scrapper import SeleniumScraper
 from urllib.parse import urlparse
 
+from utils.url import region_from_url
 from utils.write_read import append_to_csv
 
 
@@ -63,9 +63,15 @@ def scrape_xray_page(url, date):
       else:
         flux = None
 
+      region = cols[0]
+      if region.find('a') and region.find('a').get('href'):
+        region = region_from_url(cols[0].find('a')['href'])
+      else:
+        region = f"XX{cols[2].text.strip()}"
+
       data.append({
         'Date': date,
-        'Region': cols[0].text.strip(),
+        'Region': region,
         'Flux': flux,
         'Start': cols[2].text.strip(),
         'Maximum': cols[3].text.strip(),
@@ -73,8 +79,8 @@ def scrape_xray_page(url, date):
       })
 
     append_to_csv(data, ['Date', 'Region', 'Flux', 'Start', 'Maximum', 'End'], 'xray.csv')
-    with open("xray.txt", "a") as file:
-      file.write(f"{data}\n")
+    # with open("xray.txt", "a") as file:
+    #   file.write(f"{data}\n")
   except Exception as e:
     print(e)
     with open("xray_err.txt", "a") as file:
@@ -133,35 +139,9 @@ def scrape_dayobs_page(url, date):
     append_to_csv(data, ['Date', 'Region', 'Sunspot Number', 'Size', 'Magnetic Classification',
                          'Sunspot Classification', 'Location'], 'dayobs.csv')
 
-    with open("dayobs.txt", "a") as file:
-      file.write(f"{data}\n")
+    # with open("dayobs.txt", "a") as file:
+    #   file.write(f"{data}\n")
   except Exception as e:
     print(e)
     with open("dayobs_err.txt", "a") as file:
       file.write(f"{url}: {e}\n")
-
-
-
-# @app.task(name='download.task.scrap_swlive', default_retry_delay=1 * 60)
-# def scrap_swlive(start_date, end_date):
-#   urls = generate_urls(start_date, end_date)
-#
-#   xray_tasks = group(scrape_xray_page.s(xray_url) for xray_url, _ in urls)()
-#   dayobs_tasks = group(scrape_dayobs_page.s(dayobs_url) for _, dayobs_url in urls)()
-#
-#   xray_results = xray_tasks.get()
-#   dayobs_results = dayobs_tasks.get()
-#
-#   xray_data = [item for sublist in xray_results for item in sublist]
-#   dayobs_data = [item for sublist in dayobs_results for item in sublist]
-#
-#   xray_df = pd.DataFrame(xray_data)
-#   dayobs_df = pd.DataFrame(dayobs_data)
-#
-#   xray_csv = 'xray_data.csv'
-#   dayobs_csv = 'dayobs_data.csv'
-#
-#   xray_df.to_csv(xray_csv, index=False)
-#   dayobs_df.to_csv(dayobs_csv, index=False)
-#
-#   return {'xray_csv': xray_csv, 'dayobs_csv': dayobs_csv}
