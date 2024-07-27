@@ -1,287 +1,2856 @@
-https://www.spaceweatherlive.com/en/archive/2017/04/30/xray.html: Message: script timeout
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/1996/06/01/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/1996/06/02/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/1996/06/03/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2006/04/10/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x55fed178ac5a <unknown>
-#1 0x55fed146dc71 <unknown>
-#2 0x55fed14fd30b <unknown>
-#3 0x55fed14dd5c2 <unknown>
-#4 0x55fed14fc303 <unknown>
-#5 0x55fed14dd363 <unknown>
-#6 0x55fed14ad247 <unknown>
-#7 0x55fed14adb9e <unknown>
-#8 0x55fed175122b <unknown>
-#9 0x55fed17552d1 <unknown>
-#10 0x55fed173cade <unknown>
-#11 0x55fed1755e32 <unknown>
-#12 0x55fed172177f <unknown>
-#13 0x55fed177a618 <unknown>
-#14 0x55fed177a7f0 <unknown>
-#15 0x55fed1789d8c <unknown>
-#16 0x7fd291a64ac3 <unknown>
+#0 0x56111091e6ba <unknown>
+#1 0x5611105ee571 <unknown>
+#2 0x5611105d7b06 <unknown>
+#3 0x5611105d6ca6 <unknown>
+#4 0x5611105d6426 <unknown>
+#5 0x5611105d631e <unknown>
+#6 0x5611105d464c <unknown>
+#7 0x5611105d4b3f <unknown>
+#8 0x5611105e46eb <unknown>
+#9 0x5611105faab4 <unknown>
+#10 0x56111060015b <unknown>
+#11 0x5611105d524e <unknown>
+#12 0x5611105fa601 <unknown>
+#13 0x56111067f433 <unknown>
+#14 0x5611106607f3 <unknown>
+#15 0x561110630ec9 <unknown>
+#16 0x56111063191e <unknown>
+#17 0x5611108e49eb <unknown>
+#18 0x5611108e8972 <unknown>
+#19 0x5611108d1e15 <unknown>
+#20 0x5611108e9502 <unknown>
+#21 0x5611108b6d2f <unknown>
+#22 0x56111090d578 <unknown>
+#23 0x56111090d750 <unknown>
+#24 0x56111091d48c <unknown>
+#25 0x7f786dfdeac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2017/05/01/xray.html: Message: timeout: Timed out receiving message from renderer: 298.912
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2010/01/24/xray.html: Message: timeout: Timed out receiving message from renderer: 299.760
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x562c7e85ec5a <unknown>
-#1 0x562c7e541e2c <unknown>
-#2 0x562c7e5291a6 <unknown>
-#3 0x562c7e528d85 <unknown>
-#4 0x562c7e526cc6 <unknown>
-#5 0x562c7e52733f <unknown>
-#6 0x562c7e537c67 <unknown>
-#7 0x562c7e54e1be <unknown>
-#8 0x562c7e5538ab <unknown>
-#9 0x562c7e527a8a <unknown>
-#10 0x562c7e54e03e <unknown>
-#11 0x562c7e5d0679 <unknown>
-#12 0x562c7e5b1363 <unknown>
-#13 0x562c7e581247 <unknown>
-#14 0x562c7e581b9e <unknown>
-#15 0x562c7e82522b <unknown>
-#16 0x562c7e8292d1 <unknown>
-#17 0x562c7e810ade <unknown>
-#18 0x562c7e829e32 <unknown>
-#19 0x562c7e7f577f <unknown>
-#20 0x562c7e84e618 <unknown>
-#21 0x562c7e84e7f0 <unknown>
-#22 0x562c7e85dd8c <unknown>
-#23 0x7fce25576ac3 <unknown>
+#0 0x561428bff6ba <unknown>
+#1 0x5614288cf730 <unknown>
+#2 0x5614288b762a <unknown>
+#3 0x5614288b731e <unknown>
+#4 0x5614288b564c <unknown>
+#5 0x5614288b5b3f <unknown>
+#6 0x5614288c56eb <unknown>
+#7 0x5614288dbab4 <unknown>
+#8 0x5614288e115b <unknown>
+#9 0x5614288b624e <unknown>
+#10 0x5614288db909 <unknown>
+#11 0x561428960433 <unknown>
+#12 0x5614289417f3 <unknown>
+#13 0x561428911ec9 <unknown>
+#14 0x56142891291e <unknown>
+#15 0x561428bc59eb <unknown>
+#16 0x561428bc9972 <unknown>
+#17 0x561428bb2e15 <unknown>
+#18 0x561428bca502 <unknown>
+#19 0x561428b97d2f <unknown>
+#20 0x561428bee578 <unknown>
+#21 0x561428bee750 <unknown>
+#22 0x561428bfe48c <unknown>
+#23 0x7f9d449f9ac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2017/09/24/xray.html: Message: script timeout
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2011/12/22/xray.html: Message: timeout: Timed out receiving message from renderer: 299.738
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x5625a3efbc5a <unknown>
-#1 0x5625a3bdec71 <unknown>
-#2 0x5625a3c6e30b <unknown>
-#3 0x5625a3c4e5c2 <unknown>
-#4 0x5625a3c6d303 <unknown>
-#5 0x5625a3c4e363 <unknown>
-#6 0x5625a3c1e247 <unknown>
-#7 0x5625a3c1eb9e <unknown>
-#8 0x5625a3ec222b <unknown>
-#9 0x5625a3ec62d1 <unknown>
-#10 0x5625a3eadade <unknown>
-#11 0x5625a3ec6e32 <unknown>
-#12 0x5625a3e9277f <unknown>
-#13 0x5625a3eeb618 <unknown>
-#14 0x5625a3eeb7f0 <unknown>
-#15 0x5625a3efad8c <unknown>
-#16 0x7ff731692ac3 <unknown>
+#0 0x55af9ab4c6ba <unknown>
+#1 0x55af9a81c730 <unknown>
+#2 0x55af9a80462a <unknown>
+#3 0x55af9a80431e <unknown>
+#4 0x55af9a80264c <unknown>
+#5 0x55af9a802b3f <unknown>
+#6 0x55af9a8126eb <unknown>
+#7 0x55af9a828ab4 <unknown>
+#8 0x55af9a82e15b <unknown>
+#9 0x55af9a80324e <unknown>
+#10 0x55af9a828909 <unknown>
+#11 0x55af9a8ad433 <unknown>
+#12 0x55af9a88e7f3 <unknown>
+#13 0x55af9a85eec9 <unknown>
+#14 0x55af9a85f91e <unknown>
+#15 0x55af9ab129eb <unknown>
+#16 0x55af9ab16972 <unknown>
+#17 0x55af9aaffe15 <unknown>
+#18 0x55af9ab17502 <unknown>
+#19 0x55af9aae4d2f <unknown>
+#20 0x55af9ab3b578 <unknown>
+#21 0x55af9ab3b750 <unknown>
+#22 0x55af9ab4b48c <unknown>
+#23 0x7fd3b791fac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2017/09/25/xray.html: Message: script timeout
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2012/03/22/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2014/07/08/xray.html: Message: timeout: Timed out receiving message from renderer: 299.819
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x56001f2d1c5a <unknown>
-#1 0x56001efb4c71 <unknown>
-#2 0x56001f04430b <unknown>
-#3 0x56001f0245c2 <unknown>
-#4 0x56001f043303 <unknown>
-#5 0x56001f024363 <unknown>
-#6 0x56001eff4247 <unknown>
-#7 0x56001eff4b9e <unknown>
-#8 0x56001f29822b <unknown>
-#9 0x56001f29c2d1 <unknown>
-#10 0x56001f283ade <unknown>
-#11 0x56001f29ce32 <unknown>
-#12 0x56001f26877f <unknown>
-#13 0x56001f2c1618 <unknown>
-#14 0x56001f2c17f0 <unknown>
-#15 0x56001f2d0d8c <unknown>
-#16 0x7fc5cb8afac3 <unknown>
+#0 0x55c88f5cb6ba <unknown>
+#1 0x55c88f29b730 <unknown>
+#2 0x55c88f28362a <unknown>
+#3 0x55c88f28331e <unknown>
+#4 0x55c88f28164c <unknown>
+#5 0x55c88f281b3f <unknown>
+#6 0x55c88f2916eb <unknown>
+#7 0x55c88f2a7ab4 <unknown>
+#8 0x55c88f2ad15b <unknown>
+#9 0x55c88f28224e <unknown>
+#10 0x55c88f2a7909 <unknown>
+#11 0x55c88f32c433 <unknown>
+#12 0x55c88f30d7f3 <unknown>
+#13 0x55c88f2ddec9 <unknown>
+#14 0x55c88f2de91e <unknown>
+#15 0x55c88f5919eb <unknown>
+#16 0x55c88f595972 <unknown>
+#17 0x55c88f57ee15 <unknown>
+#18 0x55c88f596502 <unknown>
+#19 0x55c88f563d2f <unknown>
+#20 0x55c88f5ba578 <unknown>
+#21 0x55c88f5ba750 <unknown>
+#22 0x55c88f5ca48c <unknown>
+#23 0x7f8ac95f4ac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2017/09/27/xray.html: Message: timeout: Timed out receiving message from renderer: 297.486
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2014/11/12/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x55eb50d62c5a <unknown>
-#1 0x55eb50a45e2c <unknown>
-#2 0x55eb50a2d1a6 <unknown>
-#3 0x55eb50a2cd85 <unknown>
-#4 0x55eb50a2acc6 <unknown>
-#5 0x55eb50a2b33f <unknown>
-#6 0x55eb50a3bc67 <unknown>
-#7 0x55eb50a521be <unknown>
-#8 0x55eb50a578ab <unknown>
-#9 0x55eb50a2ba8a <unknown>
-#10 0x55eb50a5203e <unknown>
-#11 0x55eb50ad4679 <unknown>
-#12 0x55eb50ab5363 <unknown>
-#13 0x55eb50a85247 <unknown>
-#14 0x55eb50a85b9e <unknown>
-#15 0x55eb50d2922b <unknown>
-#16 0x55eb50d2d2d1 <unknown>
-#17 0x55eb50d14ade <unknown>
-#18 0x55eb50d2de32 <unknown>
-#19 0x55eb50cf977f <unknown>
-#20 0x55eb50d52618 <unknown>
-#21 0x55eb50d527f0 <unknown>
-#22 0x55eb50d61d8c <unknown>
-#23 0x7f06b586fac3 <unknown>
+#0 0x5573696566ba <unknown>
+#1 0x557369326571 <unknown>
+#2 0x55736930fb06 <unknown>
+#3 0x55736930eca6 <unknown>
+#4 0x55736930e426 <unknown>
+#5 0x55736930e31e <unknown>
+#6 0x55736930c64c <unknown>
+#7 0x55736930cb3f <unknown>
+#8 0x55736931c6eb <unknown>
+#9 0x557369332ab4 <unknown>
+#10 0x55736933815b <unknown>
+#11 0x55736930d24e <unknown>
+#12 0x557369332601 <unknown>
+#13 0x5573693b7433 <unknown>
+#14 0x5573693987f3 <unknown>
+#15 0x557369368ec9 <unknown>
+#16 0x55736936991e <unknown>
+#17 0x55736961c9eb <unknown>
+#18 0x557369620972 <unknown>
+#19 0x557369609e15 <unknown>
+#20 0x557369621502 <unknown>
+#21 0x5573695eed2f <unknown>
+#22 0x557369645578 <unknown>
+#23 0x557369645750 <unknown>
+#24 0x55736965548c <unknown>
+#25 0x7f936336eac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2017/09/28/xray.html: Message: timeout: Timed out receiving message from renderer: 292.106
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2015/01/22/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x557677958c5a <unknown>
-#1 0x55767763be2c <unknown>
-#2 0x5576776231a6 <unknown>
-#3 0x557677622d85 <unknown>
-#4 0x557677620cc6 <unknown>
-#5 0x55767762133f <unknown>
-#6 0x557677631c67 <unknown>
-#7 0x5576776481be <unknown>
-#8 0x55767764d8ab <unknown>
-#9 0x557677621a8a <unknown>
-#10 0x55767764803e <unknown>
-#11 0x5576776ca679 <unknown>
-#12 0x5576776ab363 <unknown>
-#13 0x55767767b247 <unknown>
-#14 0x55767767bb9e <unknown>
-#15 0x55767791f22b <unknown>
-#16 0x5576779232d1 <unknown>
-#17 0x55767790aade <unknown>
-#18 0x557677923e32 <unknown>
-#19 0x5576778ef77f <unknown>
-#20 0x557677948618 <unknown>
-#21 0x5576779487f0 <unknown>
-#22 0x557677957d8c <unknown>
-#23 0x7f800f2e6ac3 <unknown>
+#0 0x558dc2e106ba <unknown>
+#1 0x558dc2ae0571 <unknown>
+#2 0x558dc2ac9b06 <unknown>
+#3 0x558dc2ac8ca6 <unknown>
+#4 0x558dc2ac8426 <unknown>
+#5 0x558dc2ac831e <unknown>
+#6 0x558dc2ac664c <unknown>
+#7 0x558dc2ac6b3f <unknown>
+#8 0x558dc2ad66eb <unknown>
+#9 0x558dc2aecab4 <unknown>
+#10 0x558dc2af215b <unknown>
+#11 0x558dc2ac724e <unknown>
+#12 0x558dc2aec601 <unknown>
+#13 0x558dc2b71433 <unknown>
+#14 0x558dc2b527f3 <unknown>
+#15 0x558dc2b22ec9 <unknown>
+#16 0x558dc2b2391e <unknown>
+#17 0x558dc2dd69eb <unknown>
+#18 0x558dc2dda972 <unknown>
+#19 0x558dc2dc3e15 <unknown>
+#20 0x558dc2ddb502 <unknown>
+#21 0x558dc2da8d2f <unknown>
+#22 0x558dc2dff578 <unknown>
+#23 0x558dc2dff750 <unknown>
+#24 0x558dc2e0f48c <unknown>
+#25 0x7fa88dc95ac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2017/09/29/xray.html: Message: timeout: Timed out receiving message from renderer: 297.718
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2015/01/23/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x55de9d758c5a <unknown>
-#1 0x55de9d43be2c <unknown>
-#2 0x55de9d4231a6 <unknown>
-#3 0x55de9d422d85 <unknown>
-#4 0x55de9d420cc6 <unknown>
-#5 0x55de9d42133f <unknown>
-#6 0x55de9d431c67 <unknown>
-#7 0x55de9d4481be <unknown>
-#8 0x55de9d44d8ab <unknown>
-#9 0x55de9d421a8a <unknown>
-#10 0x55de9d44803e <unknown>
-#11 0x55de9d4ca679 <unknown>
-#12 0x55de9d4ab363 <unknown>
-#13 0x55de9d47b247 <unknown>
-#14 0x55de9d47bb9e <unknown>
-#15 0x55de9d71f22b <unknown>
-#16 0x55de9d7232d1 <unknown>
-#17 0x55de9d70aade <unknown>
-#18 0x55de9d723e32 <unknown>
-#19 0x55de9d6ef77f <unknown>
-#20 0x55de9d748618 <unknown>
-#21 0x55de9d7487f0 <unknown>
-#22 0x55de9d757d8c <unknown>
-#23 0x7f0616772ac3 <unknown>
+#0 0x5616403256ba <unknown>
+#1 0x56163fff5571 <unknown>
+#2 0x56163ffdeb06 <unknown>
+#3 0x56163ffddca6 <unknown>
+#4 0x56163ffdd426 <unknown>
+#5 0x56163ffdd31e <unknown>
+#6 0x56163ffdb64c <unknown>
+#7 0x56163ffdbb3f <unknown>
+#8 0x56163ffeb6eb <unknown>
+#9 0x561640001ab4 <unknown>
+#10 0x56164000715b <unknown>
+#11 0x56163ffdc24e <unknown>
+#12 0x561640001601 <unknown>
+#13 0x561640086433 <unknown>
+#14 0x5616400677f3 <unknown>
+#15 0x561640037ec9 <unknown>
+#16 0x56164003891e <unknown>
+#17 0x5616402eb9eb <unknown>
+#18 0x5616402ef972 <unknown>
+#19 0x5616402d8e15 <unknown>
+#20 0x5616402f0502 <unknown>
+#21 0x5616402bdd2f <unknown>
+#22 0x561640314578 <unknown>
+#23 0x561640314750 <unknown>
+#24 0x56164032448c <unknown>
+#25 0x7f3992154ac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2017/09/30/xray.html: Message: script timeout
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2015/01/24/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x5567abfe2c5a <unknown>
-#1 0x5567abcc5c71 <unknown>
-#2 0x5567abd5530b <unknown>
-#3 0x5567abd355c2 <unknown>
-#4 0x5567abd54303 <unknown>
-#5 0x5567abd35363 <unknown>
-#6 0x5567abd05247 <unknown>
-#7 0x5567abd05b9e <unknown>
-#8 0x5567abfa922b <unknown>
-#9 0x5567abfad2d1 <unknown>
-#10 0x5567abf94ade <unknown>
-#11 0x5567abfade32 <unknown>
-#12 0x5567abf7977f <unknown>
-#13 0x5567abfd2618 <unknown>
-#14 0x5567abfd27f0 <unknown>
-#15 0x5567abfe1d8c <unknown>
-#16 0x7fd8457d4ac3 <unknown>
+#0 0x556afd6536ba <unknown>
+#1 0x556afd323571 <unknown>
+#2 0x556afd30cb06 <unknown>
+#3 0x556afd30bca6 <unknown>
+#4 0x556afd30b426 <unknown>
+#5 0x556afd30b31e <unknown>
+#6 0x556afd30964c <unknown>
+#7 0x556afd309b3f <unknown>
+#8 0x556afd3196eb <unknown>
+#9 0x556afd32fab4 <unknown>
+#10 0x556afd33515b <unknown>
+#11 0x556afd30a24e <unknown>
+#12 0x556afd32f601 <unknown>
+#13 0x556afd3b4433 <unknown>
+#14 0x556afd3957f3 <unknown>
+#15 0x556afd365ec9 <unknown>
+#16 0x556afd36691e <unknown>
+#17 0x556afd6199eb <unknown>
+#18 0x556afd61d972 <unknown>
+#19 0x556afd606e15 <unknown>
+#20 0x556afd61e502 <unknown>
+#21 0x556afd5ebd2f <unknown>
+#22 0x556afd642578 <unknown>
+#23 0x556afd642750 <unknown>
+#24 0x556afd65248c <unknown>
+#25 0x7f97c8809ac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2019/04/19/xray.html: Message: script timeout
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2015/01/25/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x559772fcdc5a <unknown>
-#1 0x559772cb0c71 <unknown>
-#2 0x559772d4030b <unknown>
-#3 0x559772d205c2 <unknown>
-#4 0x559772d3f303 <unknown>
-#5 0x559772d20363 <unknown>
-#6 0x559772cf0247 <unknown>
-#7 0x559772cf0b9e <unknown>
-#8 0x559772f9422b <unknown>
-#9 0x559772f982d1 <unknown>
-#10 0x559772f7fade <unknown>
-#11 0x559772f98e32 <unknown>
-#12 0x559772f6477f <unknown>
-#13 0x559772fbd618 <unknown>
-#14 0x559772fbd7f0 <unknown>
-#15 0x559772fccd8c <unknown>
-#16 0x7f045da6eac3 <unknown>
+#0 0x55e4a88af6ba <unknown>
+#1 0x55e4a857f571 <unknown>
+#2 0x55e4a8568b06 <unknown>
+#3 0x55e4a8567ca6 <unknown>
+#4 0x55e4a8567426 <unknown>
+#5 0x55e4a856731e <unknown>
+#6 0x55e4a856564c <unknown>
+#7 0x55e4a8565b3f <unknown>
+#8 0x55e4a85756eb <unknown>
+#9 0x55e4a858bab4 <unknown>
+#10 0x55e4a859115b <unknown>
+#11 0x55e4a856624e <unknown>
+#12 0x55e4a858b601 <unknown>
+#13 0x55e4a8610433 <unknown>
+#14 0x55e4a85f17f3 <unknown>
+#15 0x55e4a85c1ec9 <unknown>
+#16 0x55e4a85c291e <unknown>
+#17 0x55e4a88759eb <unknown>
+#18 0x55e4a8879972 <unknown>
+#19 0x55e4a8862e15 <unknown>
+#20 0x55e4a887a502 <unknown>
+#21 0x55e4a8847d2f <unknown>
+#22 0x55e4a889e578 <unknown>
+#23 0x55e4a889e750 <unknown>
+#24 0x55e4a88ae48c <unknown>
+#25 0x7f1026d0aac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2019/04/20/xray.html: Message: script timeout
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2015/01/26/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x564b93a20c5a <unknown>
-#1 0x564b93703c71 <unknown>
-#2 0x564b9379330b <unknown>
-#3 0x564b937735c2 <unknown>
-#4 0x564b93792303 <unknown>
-#5 0x564b93773363 <unknown>
-#6 0x564b93743247 <unknown>
-#7 0x564b93743b9e <unknown>
-#8 0x564b939e722b <unknown>
-#9 0x564b939eb2d1 <unknown>
-#10 0x564b939d2ade <unknown>
-#11 0x564b939ebe32 <unknown>
-#12 0x564b939b777f <unknown>
-#13 0x564b93a10618 <unknown>
-#14 0x564b93a107f0 <unknown>
-#15 0x564b93a1fd8c <unknown>
-#16 0x7fcfef6cfac3 <unknown>
+#0 0x557b3abc16ba <unknown>
+#1 0x557b3a891571 <unknown>
+#2 0x557b3a87ab06 <unknown>
+#3 0x557b3a879ca6 <unknown>
+#4 0x557b3a879426 <unknown>
+#5 0x557b3a87931e <unknown>
+#6 0x557b3a87764c <unknown>
+#7 0x557b3a877b3f <unknown>
+#8 0x557b3a8876eb <unknown>
+#9 0x557b3a89dab4 <unknown>
+#10 0x557b3a8a315b <unknown>
+#11 0x557b3a87824e <unknown>
+#12 0x557b3a89d601 <unknown>
+#13 0x557b3a922433 <unknown>
+#14 0x557b3a9037f3 <unknown>
+#15 0x557b3a8d3ec9 <unknown>
+#16 0x557b3a8d491e <unknown>
+#17 0x557b3ab879eb <unknown>
+#18 0x557b3ab8b972 <unknown>
+#19 0x557b3ab74e15 <unknown>
+#20 0x557b3ab8c502 <unknown>
+#21 0x557b3ab59d2f <unknown>
+#22 0x557b3abb0578 <unknown>
+#23 0x557b3abb0750 <unknown>
+#24 0x557b3abc048c <unknown>
+#25 0x7fed0dc9fac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2020/01/04/xray.html: Message: timeout: Timed out receiving message from renderer: 299.111
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2015/01/27/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x5603c57d7c5a <unknown>
-#1 0x5603c54bae2c <unknown>
-#2 0x5603c54a21a6 <unknown>
-#3 0x5603c54a1d85 <unknown>
-#4 0x5603c549fcc6 <unknown>
-#5 0x5603c54a033f <unknown>
-#6 0x5603c54b0c67 <unknown>
-#7 0x5603c54c71be <unknown>
-#8 0x5603c54cc8ab <unknown>
-#9 0x5603c54a0a8a <unknown>
-#10 0x5603c54c703e <unknown>
-#11 0x5603c5549679 <unknown>
-#12 0x5603c552a363 <unknown>
-#13 0x5603c54fa247 <unknown>
-#14 0x5603c54fab9e <unknown>
-#15 0x5603c579e22b <unknown>
-#16 0x5603c57a22d1 <unknown>
-#17 0x5603c5789ade <unknown>
-#18 0x5603c57a2e32 <unknown>
-#19 0x5603c576e77f <unknown>
-#20 0x5603c57c7618 <unknown>
-#21 0x5603c57c77f0 <unknown>
-#22 0x5603c57d6d8c <unknown>
-#23 0x7fdedd3b4ac3 <unknown>
+#0 0x55ea3ab406ba <unknown>
+#1 0x55ea3a810571 <unknown>
+#2 0x55ea3a7f9b06 <unknown>
+#3 0x55ea3a7f8ca6 <unknown>
+#4 0x55ea3a7f8426 <unknown>
+#5 0x55ea3a7f831e <unknown>
+#6 0x55ea3a7f664c <unknown>
+#7 0x55ea3a7f6b3f <unknown>
+#8 0x55ea3a8066eb <unknown>
+#9 0x55ea3a81cab4 <unknown>
+#10 0x55ea3a82215b <unknown>
+#11 0x55ea3a7f724e <unknown>
+#12 0x55ea3a81c601 <unknown>
+#13 0x55ea3a8a1433 <unknown>
+#14 0x55ea3a8827f3 <unknown>
+#15 0x55ea3a852ec9 <unknown>
+#16 0x55ea3a85391e <unknown>
+#17 0x55ea3ab069eb <unknown>
+#18 0x55ea3ab0a972 <unknown>
+#19 0x55ea3aaf3e15 <unknown>
+#20 0x55ea3ab0b502 <unknown>
+#21 0x55ea3aad8d2f <unknown>
+#22 0x55ea3ab2f578 <unknown>
+#23 0x55ea3ab2f750 <unknown>
+#24 0x55ea3ab3f48c <unknown>
+#25 0x7f2011b0dac3 <unknown>
 
-https://www.spaceweatherlive.com/en/archive/2020/05/22/xray.html: Message: script timeout
-  (Session info: chrome-headless-shell=126.0.6478.182)
+https://www.spaceweatherlive.com/en/archive/2015/01/28/xray.html: Message: unknown error: session deleted because of page crash
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
 Stacktrace:
-#0 0x55aedc37bc5a <unknown>
-#1 0x55aedc05ec71 <unknown>
-#2 0x55aedc0ee30b <unknown>
-#3 0x55aedc0ce5c2 <unknown>
-#4 0x55aedc0ed303 <unknown>
-#5 0x55aedc0ce363 <unknown>
-#6 0x55aedc09e247 <unknown>
-#7 0x55aedc09eb9e <unknown>
-#8 0x55aedc34222b <unknown>
-#9 0x55aedc3462d1 <unknown>
-#10 0x55aedc32dade <unknown>
-#11 0x55aedc346e32 <unknown>
-#12 0x55aedc31277f <unknown>
-#13 0x55aedc36b618 <unknown>
-#14 0x55aedc36b7f0 <unknown>
-#15 0x55aedc37ad8c <unknown>
-#16 0x7eff045c6ac3 <unknown>
+#0 0x563aaa9996ba <unknown>
+#1 0x563aaa669571 <unknown>
+#2 0x563aaa652b06 <unknown>
+#3 0x563aaa651ca6 <unknown>
+#4 0x563aaa651426 <unknown>
+#5 0x563aaa65131e <unknown>
+#6 0x563aaa6502fd <unknown>
+#7 0x563aaa675601 <unknown>
+#8 0x563aaa6fa433 <unknown>
+#9 0x563aaa6db7f3 <unknown>
+#10 0x563aaa6abec9 <unknown>
+#11 0x563aaa6ac91e <unknown>
+#12 0x563aaa95f9eb <unknown>
+#13 0x563aaa963972 <unknown>
+#14 0x563aaa94ce15 <unknown>
+#15 0x563aaa964502 <unknown>
+#16 0x563aaa931d2f <unknown>
+#17 0x563aaa988578 <unknown>
+#18 0x563aaa988750 <unknown>
+#19 0x563aaa99848c <unknown>
+#20 0x7f1cbab4bac3 <unknown>
 
+https://www.spaceweatherlive.com/en/archive/2015/01/29/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55ecd0c386ba <unknown>
+#1 0x55ecd0908571 <unknown>
+#2 0x55ecd08f1b06 <unknown>
+#3 0x55ecd08f0ca6 <unknown>
+#4 0x55ecd08f0426 <unknown>
+#5 0x55ecd08f031e <unknown>
+#6 0x55ecd08ee64c <unknown>
+#7 0x55ecd08eeb3f <unknown>
+#8 0x55ecd08fe6eb <unknown>
+#9 0x55ecd0914ab4 <unknown>
+#10 0x55ecd091a15b <unknown>
+#11 0x55ecd08ef24e <unknown>
+#12 0x55ecd0914601 <unknown>
+#13 0x55ecd0999433 <unknown>
+#14 0x55ecd097a7f3 <unknown>
+#15 0x55ecd094aec9 <unknown>
+#16 0x55ecd094b91e <unknown>
+#17 0x55ecd0bfe9eb <unknown>
+#18 0x55ecd0c02972 <unknown>
+#19 0x55ecd0bebe15 <unknown>
+#20 0x55ecd0c03502 <unknown>
+#21 0x55ecd0bd0d2f <unknown>
+#22 0x55ecd0c27578 <unknown>
+#23 0x55ecd0c27750 <unknown>
+#24 0x55ecd0c3748c <unknown>
+#25 0x7f32e1ddcac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/01/30/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x564365aad6ba <unknown>
+#1 0x56436577d571 <unknown>
+#2 0x564365766b06 <unknown>
+#3 0x564365765ca6 <unknown>
+#4 0x564365765426 <unknown>
+#5 0x56436576531e <unknown>
+#6 0x56436576364c <unknown>
+#7 0x564365763b3f <unknown>
+#8 0x5643657736eb <unknown>
+#9 0x564365789ab4 <unknown>
+#10 0x56436578f15b <unknown>
+#11 0x56436576424e <unknown>
+#12 0x564365789601 <unknown>
+#13 0x56436580e433 <unknown>
+#14 0x5643657ef7f3 <unknown>
+#15 0x5643657bfec9 <unknown>
+#16 0x5643657c091e <unknown>
+#17 0x564365a739eb <unknown>
+#18 0x564365a77972 <unknown>
+#19 0x564365a60e15 <unknown>
+#20 0x564365a78502 <unknown>
+#21 0x564365a45d2f <unknown>
+#22 0x564365a9c578 <unknown>
+#23 0x564365a9c750 <unknown>
+#24 0x564365aac48c <unknown>
+#25 0x7efc5872eac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/01/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x556f9bf5d6ba <unknown>
+#1 0x556f9bc2d571 <unknown>
+#2 0x556f9bc16b06 <unknown>
+#3 0x556f9bc15ca6 <unknown>
+#4 0x556f9bc15426 <unknown>
+#5 0x556f9bc1531e <unknown>
+#6 0x556f9bc1364c <unknown>
+#7 0x556f9bc13b3f <unknown>
+#8 0x556f9bc236eb <unknown>
+#9 0x556f9bc39ab4 <unknown>
+#10 0x556f9bc3f15b <unknown>
+#11 0x556f9bc1424e <unknown>
+#12 0x556f9bc39601 <unknown>
+#13 0x556f9bcbe433 <unknown>
+#14 0x556f9bc9f7f3 <unknown>
+#15 0x556f9bc6fec9 <unknown>
+#16 0x556f9bc7091e <unknown>
+#17 0x556f9bf239eb <unknown>
+#18 0x556f9bf27972 <unknown>
+#19 0x556f9bf10e15 <unknown>
+#20 0x556f9bf28502 <unknown>
+#21 0x556f9bef5d2f <unknown>
+#22 0x556f9bf4c578 <unknown>
+#23 0x556f9bf4c750 <unknown>
+#24 0x556f9bf5c48c <unknown>
+#25 0x7fcebd05eac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/02/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5629234866ba <unknown>
+#1 0x562923156571 <unknown>
+#2 0x56292313fb06 <unknown>
+#3 0x56292313eca6 <unknown>
+#4 0x56292313e426 <unknown>
+#5 0x56292313e31e <unknown>
+#6 0x56292313c64c <unknown>
+#7 0x56292313cb3f <unknown>
+#8 0x56292314c6eb <unknown>
+#9 0x562923162ab4 <unknown>
+#10 0x56292316815b <unknown>
+#11 0x56292313d24e <unknown>
+#12 0x562923162601 <unknown>
+#13 0x5629231e7433 <unknown>
+#14 0x5629231c87f3 <unknown>
+#15 0x562923198ec9 <unknown>
+#16 0x56292319991e <unknown>
+#17 0x56292344c9eb <unknown>
+#18 0x562923450972 <unknown>
+#19 0x562923439e15 <unknown>
+#20 0x562923451502 <unknown>
+#21 0x56292341ed2f <unknown>
+#22 0x562923475578 <unknown>
+#23 0x562923475750 <unknown>
+#24 0x56292348548c <unknown>
+#25 0x7f2a67c77ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/03/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/02/04/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55f62e2656ba <unknown>
+#1 0x55f62df35571 <unknown>
+#2 0x55f62df1eb06 <unknown>
+#3 0x55f62df1dca6 <unknown>
+#4 0x55f62df1d426 <unknown>
+#5 0x55f62df1d31e <unknown>
+#6 0x55f62df1b64c <unknown>
+#7 0x55f62df1bb3f <unknown>
+#8 0x55f62df2b6eb <unknown>
+#9 0x55f62df41ab4 <unknown>
+#10 0x55f62df4715b <unknown>
+#11 0x55f62df1c24e <unknown>
+#12 0x55f62df41601 <unknown>
+#13 0x55f62dfc6433 <unknown>
+#14 0x55f62dfa77f3 <unknown>
+#15 0x55f62df77ec9 <unknown>
+#16 0x55f62df7891e <unknown>
+#17 0x55f62e22b9eb <unknown>
+#18 0x55f62e22f972 <unknown>
+#19 0x55f62e218e15 <unknown>
+#20 0x55f62e230502 <unknown>
+#21 0x55f62e1fdd2f <unknown>
+#22 0x55f62e254578 <unknown>
+#23 0x55f62e254750 <unknown>
+#24 0x55f62e26448c <unknown>
+#25 0x7f3de8c03ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/05/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55fb744c16ba <unknown>
+#1 0x55fb74191571 <unknown>
+#2 0x55fb7417ab06 <unknown>
+#3 0x55fb74179ca6 <unknown>
+#4 0x55fb74179426 <unknown>
+#5 0x55fb7417931e <unknown>
+#6 0x55fb7417764c <unknown>
+#7 0x55fb74177b3f <unknown>
+#8 0x55fb741876eb <unknown>
+#9 0x55fb7419dab4 <unknown>
+#10 0x55fb741a315b <unknown>
+#11 0x55fb7417824e <unknown>
+#12 0x55fb7419d601 <unknown>
+#13 0x55fb74222433 <unknown>
+#14 0x55fb742037f3 <unknown>
+#15 0x55fb741d3ec9 <unknown>
+#16 0x55fb741d491e <unknown>
+#17 0x55fb744879eb <unknown>
+#18 0x55fb7448b972 <unknown>
+#19 0x55fb74474e15 <unknown>
+#20 0x55fb7448c502 <unknown>
+#21 0x55fb74459d2f <unknown>
+#22 0x55fb744b0578 <unknown>
+#23 0x55fb744b0750 <unknown>
+#24 0x55fb744c048c <unknown>
+#25 0x7fb48d464ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/06/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5577fe4996ba <unknown>
+#1 0x5577fe169571 <unknown>
+#2 0x5577fe152b06 <unknown>
+#3 0x5577fe151ca6 <unknown>
+#4 0x5577fe151426 <unknown>
+#5 0x5577fe15131e <unknown>
+#6 0x5577fe14f64c <unknown>
+#7 0x5577fe14fb3f <unknown>
+#8 0x5577fe15f6eb <unknown>
+#9 0x5577fe175ab4 <unknown>
+#10 0x5577fe17b15b <unknown>
+#11 0x5577fe15024e <unknown>
+#12 0x5577fe175601 <unknown>
+#13 0x5577fe1fa433 <unknown>
+#14 0x5577fe1db7f3 <unknown>
+#15 0x5577fe1abec9 <unknown>
+#16 0x5577fe1ac91e <unknown>
+#17 0x5577fe45f9eb <unknown>
+#18 0x5577fe463972 <unknown>
+#19 0x5577fe44ce15 <unknown>
+#20 0x5577fe464502 <unknown>
+#21 0x5577fe431d2f <unknown>
+#22 0x5577fe488578 <unknown>
+#23 0x5577fe488750 <unknown>
+#24 0x5577fe49848c <unknown>
+#25 0x7ffbad0fbac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/08/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5590dfc2d6ba <unknown>
+#1 0x5590df8fd571 <unknown>
+#2 0x5590df8e6b06 <unknown>
+#3 0x5590df8e5ca6 <unknown>
+#4 0x5590df8e5426 <unknown>
+#5 0x5590df8e531e <unknown>
+#6 0x5590df8e364c <unknown>
+#7 0x5590df8e3b3f <unknown>
+#8 0x5590df8f36eb <unknown>
+#9 0x5590df909ab4 <unknown>
+#10 0x5590df90f15b <unknown>
+#11 0x5590df8e424e <unknown>
+#12 0x5590df909601 <unknown>
+#13 0x5590df98e433 <unknown>
+#14 0x5590df96f7f3 <unknown>
+#15 0x5590df93fec9 <unknown>
+#16 0x5590df94091e <unknown>
+#17 0x5590dfbf39eb <unknown>
+#18 0x5590dfbf7972 <unknown>
+#19 0x5590dfbe0e15 <unknown>
+#20 0x5590dfbf8502 <unknown>
+#21 0x5590dfbc5d2f <unknown>
+#22 0x5590dfc1c578 <unknown>
+#23 0x5590dfc1c750 <unknown>
+#24 0x5590dfc2c48c <unknown>
+#25 0x7f3c85c2cac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/10/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x559ed5dc86ba <unknown>
+#1 0x559ed5a98571 <unknown>
+#2 0x559ed5a81b06 <unknown>
+#3 0x559ed5a80ca6 <unknown>
+#4 0x559ed5a80426 <unknown>
+#5 0x559ed5a8031e <unknown>
+#6 0x559ed5a7e64c <unknown>
+#7 0x559ed5a7eb3f <unknown>
+#8 0x559ed5a8e6eb <unknown>
+#9 0x559ed5aa4ab4 <unknown>
+#10 0x559ed5aaa15b <unknown>
+#11 0x559ed5a7f24e <unknown>
+#12 0x559ed5aa4601 <unknown>
+#13 0x559ed5b29433 <unknown>
+#14 0x559ed5b0a7f3 <unknown>
+#15 0x559ed5adaec9 <unknown>
+#16 0x559ed5adb91e <unknown>
+#17 0x559ed5d8e9eb <unknown>
+#18 0x559ed5d92972 <unknown>
+#19 0x559ed5d7be15 <unknown>
+#20 0x559ed5d93502 <unknown>
+#21 0x559ed5d60d2f <unknown>
+#22 0x559ed5db7578 <unknown>
+#23 0x559ed5db7750 <unknown>
+#24 0x559ed5dc748c <unknown>
+#25 0x7ff089875ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/11/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55ca4a3896ba <unknown>
+#1 0x55ca4a059571 <unknown>
+#2 0x55ca4a042b06 <unknown>
+#3 0x55ca4a041ca6 <unknown>
+#4 0x55ca4a041426 <unknown>
+#5 0x55ca4a04131e <unknown>
+#6 0x55ca4a03f64c <unknown>
+#7 0x55ca4a03fb3f <unknown>
+#8 0x55ca4a04f6eb <unknown>
+#9 0x55ca4a065ab4 <unknown>
+#10 0x55ca4a06b15b <unknown>
+#11 0x55ca4a04024e <unknown>
+#12 0x55ca4a065601 <unknown>
+#13 0x55ca4a0ea433 <unknown>
+#14 0x55ca4a0cb7f3 <unknown>
+#15 0x55ca4a09bec9 <unknown>
+#16 0x55ca4a09c91e <unknown>
+#17 0x55ca4a34f9eb <unknown>
+#18 0x55ca4a353972 <unknown>
+#19 0x55ca4a33ce15 <unknown>
+#20 0x55ca4a354502 <unknown>
+#21 0x55ca4a321d2f <unknown>
+#22 0x55ca4a378578 <unknown>
+#23 0x55ca4a378750 <unknown>
+#24 0x55ca4a38848c <unknown>
+#25 0x7fb37fd46ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/12/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x559fe2a8c6ba <unknown>
+#1 0x559fe275c571 <unknown>
+#2 0x559fe2745b06 <unknown>
+#3 0x559fe2744ca6 <unknown>
+#4 0x559fe2744426 <unknown>
+#5 0x559fe274431e <unknown>
+#6 0x559fe274264c <unknown>
+#7 0x559fe2742b3f <unknown>
+#8 0x559fe27526eb <unknown>
+#9 0x559fe2768ab4 <unknown>
+#10 0x559fe276e15b <unknown>
+#11 0x559fe274324e <unknown>
+#12 0x559fe2768601 <unknown>
+#13 0x559fe27ed433 <unknown>
+#14 0x559fe27ce7f3 <unknown>
+#15 0x559fe279eec9 <unknown>
+#16 0x559fe279f91e <unknown>
+#17 0x559fe2a529eb <unknown>
+#18 0x559fe2a56972 <unknown>
+#19 0x559fe2a3fe15 <unknown>
+#20 0x559fe2a57502 <unknown>
+#21 0x559fe2a24d2f <unknown>
+#22 0x559fe2a7b578 <unknown>
+#23 0x559fe2a7b750 <unknown>
+#24 0x559fe2a8b48c <unknown>
+#25 0x7f87791e2ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/13/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x556843c536ba <unknown>
+#1 0x556843923571 <unknown>
+#2 0x55684390cb06 <unknown>
+#3 0x55684390bca6 <unknown>
+#4 0x55684390b426 <unknown>
+#5 0x55684390b31e <unknown>
+#6 0x55684390964c <unknown>
+#7 0x556843909b3f <unknown>
+#8 0x5568439196eb <unknown>
+#9 0x55684392fab4 <unknown>
+#10 0x55684393515b <unknown>
+#11 0x55684390a24e <unknown>
+#12 0x55684392f601 <unknown>
+#13 0x5568439b4433 <unknown>
+#14 0x5568439957f3 <unknown>
+#15 0x556843965ec9 <unknown>
+#16 0x55684396691e <unknown>
+#17 0x556843c199eb <unknown>
+#18 0x556843c1d972 <unknown>
+#19 0x556843c06e15 <unknown>
+#20 0x556843c1e502 <unknown>
+#21 0x556843bebd2f <unknown>
+#22 0x556843c42578 <unknown>
+#23 0x556843c42750 <unknown>
+#24 0x556843c5248c <unknown>
+#25 0x7f9852ab5ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/14/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55c1873276ba <unknown>
+#1 0x55c186ff7571 <unknown>
+#2 0x55c186fdf2ce <unknown>
+#3 0x55c186fdd64c <unknown>
+#4 0x55c186fddb3f <unknown>
+#5 0x55c186fed6eb <unknown>
+#6 0x55c187003ab4 <unknown>
+#7 0x55c18700915b <unknown>
+#8 0x55c186fde24e <unknown>
+#9 0x55c187003601 <unknown>
+#10 0x55c18708808f <unknown>
+#11 0x55c1870697f3 <unknown>
+#12 0x55c187039ec9 <unknown>
+#13 0x55c18703a91e <unknown>
+#14 0x55c1872ed9eb <unknown>
+#15 0x55c1872f1972 <unknown>
+#16 0x55c1872dae15 <unknown>
+#17 0x55c1872f2502 <unknown>
+#18 0x55c1872bfd2f <unknown>
+#19 0x55c187316578 <unknown>
+#20 0x55c187316750 <unknown>
+#21 0x55c18732648c <unknown>
+#22 0x7fd5c90eaac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/15/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/02/16/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55e789be46ba <unknown>
+#1 0x55e7898b4571 <unknown>
+#2 0x55e78989db06 <unknown>
+#3 0x55e78989cca6 <unknown>
+#4 0x55e78989c426 <unknown>
+#5 0x55e78989c31e <unknown>
+#6 0x55e78989a64c <unknown>
+#7 0x55e78989ab3f <unknown>
+#8 0x55e7898aa6eb <unknown>
+#9 0x55e7898c0ab4 <unknown>
+#10 0x55e7898c615b <unknown>
+#11 0x55e78989b24e <unknown>
+#12 0x55e7898c0601 <unknown>
+#13 0x55e789945433 <unknown>
+#14 0x55e7899267f3 <unknown>
+#15 0x55e7898f6ec9 <unknown>
+#16 0x55e7898f791e <unknown>
+#17 0x55e789baa9eb <unknown>
+#18 0x55e789bae972 <unknown>
+#19 0x55e789b97e15 <unknown>
+#20 0x55e789baf502 <unknown>
+#21 0x55e789b7cd2f <unknown>
+#22 0x55e789bd3578 <unknown>
+#23 0x55e789bd3750 <unknown>
+#24 0x55e789be348c <unknown>
+#25 0x7f2bf8b05ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/17/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x563345fe56ba <unknown>
+#1 0x563345cb5571 <unknown>
+#2 0x563345c9eb06 <unknown>
+#3 0x563345c9dca6 <unknown>
+#4 0x563345c9d426 <unknown>
+#5 0x563345c9d31e <unknown>
+#6 0x563345c9b64c <unknown>
+#7 0x563345c9bb3f <unknown>
+#8 0x563345cab6eb <unknown>
+#9 0x563345cc1ab4 <unknown>
+#10 0x563345cc715b <unknown>
+#11 0x563345c9c24e <unknown>
+#12 0x563345cc1601 <unknown>
+#13 0x563345d46433 <unknown>
+#14 0x563345d277f3 <unknown>
+#15 0x563345cf7ec9 <unknown>
+#16 0x563345cf891e <unknown>
+#17 0x563345fab9eb <unknown>
+#18 0x563345faf972 <unknown>
+#19 0x563345f98e15 <unknown>
+#20 0x563345fb0502 <unknown>
+#21 0x563345f7dd2f <unknown>
+#22 0x563345fd4578 <unknown>
+#23 0x563345fd4750 <unknown>
+#24 0x563345fe448c <unknown>
+#25 0x7ff57d245ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/20/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/02/21/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/02/23/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55dfe505a6ba <unknown>
+#1 0x55dfe4d2a571 <unknown>
+#2 0x55dfe4d13b06 <unknown>
+#3 0x55dfe4d12ca6 <unknown>
+#4 0x55dfe4d12426 <unknown>
+#5 0x55dfe4d1231e <unknown>
+#6 0x55dfe4d1064c <unknown>
+#7 0x55dfe4d10b3f <unknown>
+#8 0x55dfe4d206eb <unknown>
+#9 0x55dfe4d36ab4 <unknown>
+#10 0x55dfe4d3c15b <unknown>
+#11 0x55dfe4d1124e <unknown>
+#12 0x55dfe4d36601 <unknown>
+#13 0x55dfe4dbb433 <unknown>
+#14 0x55dfe4d9c7f3 <unknown>
+#15 0x55dfe4d6cec9 <unknown>
+#16 0x55dfe4d6d91e <unknown>
+#17 0x55dfe50209eb <unknown>
+#18 0x55dfe5024972 <unknown>
+#19 0x55dfe500de15 <unknown>
+#20 0x55dfe5025502 <unknown>
+#21 0x55dfe4ff2d2f <unknown>
+#22 0x55dfe5049578 <unknown>
+#23 0x55dfe5049750 <unknown>
+#24 0x55dfe505948c <unknown>
+#25 0x7faa7aa7dac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/24/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5590289716ba <unknown>
+#1 0x559028641571 <unknown>
+#2 0x55902862ab06 <unknown>
+#3 0x559028629ca6 <unknown>
+#4 0x559028629426 <unknown>
+#5 0x55902862931e <unknown>
+#6 0x55902862764c <unknown>
+#7 0x559028627b3f <unknown>
+#8 0x5590286376eb <unknown>
+#9 0x55902864dab4 <unknown>
+#10 0x55902865315b <unknown>
+#11 0x55902862824e <unknown>
+#12 0x55902864d601 <unknown>
+#13 0x5590286d2433 <unknown>
+#14 0x5590286b37f3 <unknown>
+#15 0x559028683ec9 <unknown>
+#16 0x55902868491e <unknown>
+#17 0x5590289379eb <unknown>
+#18 0x55902893b972 <unknown>
+#19 0x559028924e15 <unknown>
+#20 0x55902893c502 <unknown>
+#21 0x559028909d2f <unknown>
+#22 0x559028960578 <unknown>
+#23 0x559028960750 <unknown>
+#24 0x55902897048c <unknown>
+#25 0x7f4b9014eac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/25/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x556d5beef6ba <unknown>
+#1 0x556d5bbbf571 <unknown>
+#2 0x556d5bba8b06 <unknown>
+#3 0x556d5bba7ca6 <unknown>
+#4 0x556d5bba7426 <unknown>
+#5 0x556d5bba731e <unknown>
+#6 0x556d5bba564c <unknown>
+#7 0x556d5bba5b3f <unknown>
+#8 0x556d5bbb56eb <unknown>
+#9 0x556d5bbcbab4 <unknown>
+#10 0x556d5bbd115b <unknown>
+#11 0x556d5bba624e <unknown>
+#12 0x556d5bbcb601 <unknown>
+#13 0x556d5bc50433 <unknown>
+#14 0x556d5bc317f3 <unknown>
+#15 0x556d5bc01ec9 <unknown>
+#16 0x556d5bc0291e <unknown>
+#17 0x556d5beb59eb <unknown>
+#18 0x556d5beb9972 <unknown>
+#19 0x556d5bea2e15 <unknown>
+#20 0x556d5beba502 <unknown>
+#21 0x556d5be87d2f <unknown>
+#22 0x556d5bede578 <unknown>
+#23 0x556d5bede750 <unknown>
+#24 0x556d5beee48c <unknown>
+#25 0x7f64f001cac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/26/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/02/27/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x557e47dbe6ba <unknown>
+#1 0x557e47a8e571 <unknown>
+#2 0x557e47a77b06 <unknown>
+#3 0x557e47a76ca6 <unknown>
+#4 0x557e47a76426 <unknown>
+#5 0x557e47a7631e <unknown>
+#6 0x557e47a7464c <unknown>
+#7 0x557e47a74b3f <unknown>
+#8 0x557e47a846eb <unknown>
+#9 0x557e47a9aab4 <unknown>
+#10 0x557e47aa015b <unknown>
+#11 0x557e47a7524e <unknown>
+#12 0x557e47a9a601 <unknown>
+#13 0x557e47b1f433 <unknown>
+#14 0x557e47b007f3 <unknown>
+#15 0x557e47ad0ec9 <unknown>
+#16 0x557e47ad191e <unknown>
+#17 0x557e47d849eb <unknown>
+#18 0x557e47d88972 <unknown>
+#19 0x557e47d71e15 <unknown>
+#20 0x557e47d89502 <unknown>
+#21 0x557e47d56d2f <unknown>
+#22 0x557e47dad578 <unknown>
+#23 0x557e47dad750 <unknown>
+#24 0x557e47dbd48c <unknown>
+#25 0x7f89b5d4aac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/02/28/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5559f598d6ba <unknown>
+#1 0x5559f565d571 <unknown>
+#2 0x5559f5646b06 <unknown>
+#3 0x5559f5645ca6 <unknown>
+#4 0x5559f5645426 <unknown>
+#5 0x5559f564531e <unknown>
+#6 0x5559f564364c <unknown>
+#7 0x5559f5643b3f <unknown>
+#8 0x5559f56536eb <unknown>
+#9 0x5559f5669ab4 <unknown>
+#10 0x5559f566f15b <unknown>
+#11 0x5559f564424e <unknown>
+#12 0x5559f5669601 <unknown>
+#13 0x5559f56ee433 <unknown>
+#14 0x5559f56cf7f3 <unknown>
+#15 0x5559f569fec9 <unknown>
+#16 0x5559f56a091e <unknown>
+#17 0x5559f59539eb <unknown>
+#18 0x5559f5957972 <unknown>
+#19 0x5559f5940e15 <unknown>
+#20 0x5559f5958502 <unknown>
+#21 0x5559f5925d2f <unknown>
+#22 0x5559f597c578 <unknown>
+#23 0x5559f597c750 <unknown>
+#24 0x5559f598c48c <unknown>
+#25 0x7f34b03b8ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/01/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5626f15556ba <unknown>
+#1 0x5626f1225571 <unknown>
+#2 0x5626f120eb06 <unknown>
+#3 0x5626f120dca6 <unknown>
+#4 0x5626f120d426 <unknown>
+#5 0x5626f120d31e <unknown>
+#6 0x5626f120b64c <unknown>
+#7 0x5626f120bb3f <unknown>
+#8 0x5626f121b6eb <unknown>
+#9 0x5626f1231ab4 <unknown>
+#10 0x5626f123715b <unknown>
+#11 0x5626f120c24e <unknown>
+#12 0x5626f1231601 <unknown>
+#13 0x5626f12b6433 <unknown>
+#14 0x5626f12977f3 <unknown>
+#15 0x5626f1267ec9 <unknown>
+#16 0x5626f126891e <unknown>
+#17 0x5626f151b9eb <unknown>
+#18 0x5626f151f972 <unknown>
+#19 0x5626f1508e15 <unknown>
+#20 0x5626f1520502 <unknown>
+#21 0x5626f14edd2f <unknown>
+#22 0x5626f1544578 <unknown>
+#23 0x5626f1544750 <unknown>
+#24 0x5626f155448c <unknown>
+#25 0x7ff9085f3ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/02/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55b925c916ba <unknown>
+#1 0x55b925961571 <unknown>
+#2 0x55b92594ab06 <unknown>
+#3 0x55b925949ca6 <unknown>
+#4 0x55b925949426 <unknown>
+#5 0x55b92594931e <unknown>
+#6 0x55b92594764c <unknown>
+#7 0x55b925947b3f <unknown>
+#8 0x55b9259576eb <unknown>
+#9 0x55b92596dab4 <unknown>
+#10 0x55b92597315b <unknown>
+#11 0x55b92594824e <unknown>
+#12 0x55b92596d601 <unknown>
+#13 0x55b9259f2433 <unknown>
+#14 0x55b9259d37f3 <unknown>
+#15 0x55b9259a3ec9 <unknown>
+#16 0x55b9259a491e <unknown>
+#17 0x55b925c579eb <unknown>
+#18 0x55b925c5b972 <unknown>
+#19 0x55b925c44e15 <unknown>
+#20 0x55b925c5c502 <unknown>
+#21 0x55b925c29d2f <unknown>
+#22 0x55b925c80578 <unknown>
+#23 0x55b925c80750 <unknown>
+#24 0x55b925c9048c <unknown>
+#25 0x7f3d806c2ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/03/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55655e72b6ba <unknown>
+#1 0x55655e3fb571 <unknown>
+#2 0x55655e3e4b06 <unknown>
+#3 0x55655e3e3ca6 <unknown>
+#4 0x55655e3e3426 <unknown>
+#5 0x55655e3e331e <unknown>
+#6 0x55655e3e164c <unknown>
+#7 0x55655e3e1b3f <unknown>
+#8 0x55655e3f16eb <unknown>
+#9 0x55655e407ab4 <unknown>
+#10 0x55655e40d15b <unknown>
+#11 0x55655e3e224e <unknown>
+#12 0x55655e407601 <unknown>
+#13 0x55655e48c433 <unknown>
+#14 0x55655e46d7f3 <unknown>
+#15 0x55655e43dec9 <unknown>
+#16 0x55655e43e91e <unknown>
+#17 0x55655e6f19eb <unknown>
+#18 0x55655e6f5972 <unknown>
+#19 0x55655e6dee15 <unknown>
+#20 0x55655e6f6502 <unknown>
+#21 0x55655e6c3d2f <unknown>
+#22 0x55655e71a578 <unknown>
+#23 0x55655e71a750 <unknown>
+#24 0x55655e72a48c <unknown>
+#25 0x7fabfd575ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/05/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/03/06/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55a222b896ba <unknown>
+#1 0x55a222859571 <unknown>
+#2 0x55a222842b06 <unknown>
+#3 0x55a222841ca6 <unknown>
+#4 0x55a222841426 <unknown>
+#5 0x55a22284131e <unknown>
+#6 0x55a22283f64c <unknown>
+#7 0x55a22283fb3f <unknown>
+#8 0x55a22284f6eb <unknown>
+#9 0x55a222865ab4 <unknown>
+#10 0x55a22286b15b <unknown>
+#11 0x55a22284024e <unknown>
+#12 0x55a222865601 <unknown>
+#13 0x55a2228ea433 <unknown>
+#14 0x55a2228cb7f3 <unknown>
+#15 0x55a22289bec9 <unknown>
+#16 0x55a22289c91e <unknown>
+#17 0x55a222b4f9eb <unknown>
+#18 0x55a222b53972 <unknown>
+#19 0x55a222b3ce15 <unknown>
+#20 0x55a222b54502 <unknown>
+#21 0x55a222b21d2f <unknown>
+#22 0x55a222b78578 <unknown>
+#23 0x55a222b78750 <unknown>
+#24 0x55a222b8848c <unknown>
+#25 0x7ff6e78b2ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/07/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x557c253d06ba <unknown>
+#1 0x557c250a0571 <unknown>
+#2 0x557c25089b06 <unknown>
+#3 0x557c25088ca6 <unknown>
+#4 0x557c25088426 <unknown>
+#5 0x557c2508831e <unknown>
+#6 0x557c2508664c <unknown>
+#7 0x557c25086b3f <unknown>
+#8 0x557c250966eb <unknown>
+#9 0x557c250acab4 <unknown>
+#10 0x557c250b215b <unknown>
+#11 0x557c2508724e <unknown>
+#12 0x557c250ac601 <unknown>
+#13 0x557c25131433 <unknown>
+#14 0x557c251127f3 <unknown>
+#15 0x557c250e2ec9 <unknown>
+#16 0x557c250e391e <unknown>
+#17 0x557c253969eb <unknown>
+#18 0x557c2539a972 <unknown>
+#19 0x557c25383e15 <unknown>
+#20 0x557c2539b502 <unknown>
+#21 0x557c25368d2f <unknown>
+#22 0x557c253bf578 <unknown>
+#23 0x557c253bf750 <unknown>
+#24 0x557c253cf48c <unknown>
+#25 0x7fc2725d1ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/08/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55d3e98a26ba <unknown>
+#1 0x55d3e9572571 <unknown>
+#2 0x55d3e955bb06 <unknown>
+#3 0x55d3e955aca6 <unknown>
+#4 0x55d3e955a426 <unknown>
+#5 0x55d3e955a31e <unknown>
+#6 0x55d3e955864c <unknown>
+#7 0x55d3e9558b3f <unknown>
+#8 0x55d3e95686eb <unknown>
+#9 0x55d3e957eab4 <unknown>
+#10 0x55d3e958415b <unknown>
+#11 0x55d3e955924e <unknown>
+#12 0x55d3e957e601 <unknown>
+#13 0x55d3e9603433 <unknown>
+#14 0x55d3e95e47f3 <unknown>
+#15 0x55d3e95b4ec9 <unknown>
+#16 0x55d3e95b591e <unknown>
+#17 0x55d3e98689eb <unknown>
+#18 0x55d3e986c972 <unknown>
+#19 0x55d3e9855e15 <unknown>
+#20 0x55d3e986d502 <unknown>
+#21 0x55d3e983ad2f <unknown>
+#22 0x55d3e9891578 <unknown>
+#23 0x55d3e9891750 <unknown>
+#24 0x55d3e98a148c <unknown>
+#25 0x7f2dffd05ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/09/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55a60bf7b6ba <unknown>
+#1 0x55a60bc4b571 <unknown>
+#2 0x55a60bc34b06 <unknown>
+#3 0x55a60bc33ca6 <unknown>
+#4 0x55a60bc33426 <unknown>
+#5 0x55a60bc3331e <unknown>
+#6 0x55a60bc3164c <unknown>
+#7 0x55a60bc31b3f <unknown>
+#8 0x55a60bc416eb <unknown>
+#9 0x55a60bc57ab4 <unknown>
+#10 0x55a60bc5d15b <unknown>
+#11 0x55a60bc3224e <unknown>
+#12 0x55a60bc57601 <unknown>
+#13 0x55a60bcdc433 <unknown>
+#14 0x55a60bcbd7f3 <unknown>
+#15 0x55a60bc8dec9 <unknown>
+#16 0x55a60bc8e91e <unknown>
+#17 0x55a60bf419eb <unknown>
+#18 0x55a60bf45972 <unknown>
+#19 0x55a60bf2ee15 <unknown>
+#20 0x55a60bf46502 <unknown>
+#21 0x55a60bf13d2f <unknown>
+#22 0x55a60bf6a578 <unknown>
+#23 0x55a60bf6a750 <unknown>
+#24 0x55a60bf7a48c <unknown>
+#25 0x7fe380978ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/10/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5605ec90d6ba <unknown>
+#1 0x5605ec5dd571 <unknown>
+#2 0x5605ec5c6b06 <unknown>
+#3 0x5605ec5c5ca6 <unknown>
+#4 0x5605ec5c5426 <unknown>
+#5 0x5605ec5c531e <unknown>
+#6 0x5605ec5c364c <unknown>
+#7 0x5605ec5c3b3f <unknown>
+#8 0x5605ec5d36eb <unknown>
+#9 0x5605ec5e9ab4 <unknown>
+#10 0x5605ec5ef15b <unknown>
+#11 0x5605ec5c424e <unknown>
+#12 0x5605ec5e9601 <unknown>
+#13 0x5605ec66e433 <unknown>
+#14 0x5605ec64f7f3 <unknown>
+#15 0x5605ec61fec9 <unknown>
+#16 0x5605ec62091e <unknown>
+#17 0x5605ec8d39eb <unknown>
+#18 0x5605ec8d7972 <unknown>
+#19 0x5605ec8c0e15 <unknown>
+#20 0x5605ec8d8502 <unknown>
+#21 0x5605ec8a5d2f <unknown>
+#22 0x5605ec8fc578 <unknown>
+#23 0x5605ec8fc750 <unknown>
+#24 0x5605ec90c48c <unknown>
+#25 0x7fdbfa20dac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/11/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55c0be7056ba <unknown>
+#1 0x55c0be3d5571 <unknown>
+#2 0x55c0be3beb06 <unknown>
+#3 0x55c0be3bdca6 <unknown>
+#4 0x55c0be3bd426 <unknown>
+#5 0x55c0be3bd31e <unknown>
+#6 0x55c0be3bb64c <unknown>
+#7 0x55c0be3bbb3f <unknown>
+#8 0x55c0be3cb6eb <unknown>
+#9 0x55c0be3e1ab4 <unknown>
+#10 0x55c0be3e715b <unknown>
+#11 0x55c0be3bc24e <unknown>
+#12 0x55c0be3e1601 <unknown>
+#13 0x55c0be466433 <unknown>
+#14 0x55c0be4477f3 <unknown>
+#15 0x55c0be417ec9 <unknown>
+#16 0x55c0be41891e <unknown>
+#17 0x55c0be6cb9eb <unknown>
+#18 0x55c0be6cf972 <unknown>
+#19 0x55c0be6b8e15 <unknown>
+#20 0x55c0be6d0502 <unknown>
+#21 0x55c0be69dd2f <unknown>
+#22 0x55c0be6f4578 <unknown>
+#23 0x55c0be6f4750 <unknown>
+#24 0x55c0be70448c <unknown>
+#25 0x7f822b044ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/12/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x563818f5f6ba <unknown>
+#1 0x563818c2f571 <unknown>
+#2 0x563818c18b06 <unknown>
+#3 0x563818c17ca6 <unknown>
+#4 0x563818c17426 <unknown>
+#5 0x563818c1731e <unknown>
+#6 0x563818c1564c <unknown>
+#7 0x563818c15b3f <unknown>
+#8 0x563818c256eb <unknown>
+#9 0x563818c3bab4 <unknown>
+#10 0x563818c4115b <unknown>
+#11 0x563818c1624e <unknown>
+#12 0x563818c3b601 <unknown>
+#13 0x563818cc0433 <unknown>
+#14 0x563818ca17f3 <unknown>
+#15 0x563818c71ec9 <unknown>
+#16 0x563818c7291e <unknown>
+#17 0x563818f259eb <unknown>
+#18 0x563818f29972 <unknown>
+#19 0x563818f12e15 <unknown>
+#20 0x563818f2a502 <unknown>
+#21 0x563818ef7d2f <unknown>
+#22 0x563818f4e578 <unknown>
+#23 0x563818f4e750 <unknown>
+#24 0x563818f5e48c <unknown>
+#25 0x7f8bf9a8dac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/13/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x561cec2b56ba <unknown>
+#1 0x561cebf85571 <unknown>
+#2 0x561cebf6eb06 <unknown>
+#3 0x561cebf6dca6 <unknown>
+#4 0x561cebf6d426 <unknown>
+#5 0x561cebf6d31e <unknown>
+#6 0x561cebf6b64c <unknown>
+#7 0x561cebf6bb3f <unknown>
+#8 0x561cebf7b6eb <unknown>
+#9 0x561cebf91ab4 <unknown>
+#10 0x561cebf9715b <unknown>
+#11 0x561cebf6c24e <unknown>
+#12 0x561cebf91601 <unknown>
+#13 0x561cec016433 <unknown>
+#14 0x561cebff77f3 <unknown>
+#15 0x561cebfc7ec9 <unknown>
+#16 0x561cebfc891e <unknown>
+#17 0x561cec27b9eb <unknown>
+#18 0x561cec27f972 <unknown>
+#19 0x561cec268e15 <unknown>
+#20 0x561cec280502 <unknown>
+#21 0x561cec24dd2f <unknown>
+#22 0x561cec2a4578 <unknown>
+#23 0x561cec2a4750 <unknown>
+#24 0x561cec2b448c <unknown>
+#25 0x7f39df72fac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/14/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x559f7f9a46ba <unknown>
+#1 0x559f7f674571 <unknown>
+#2 0x559f7f65db06 <unknown>
+#3 0x559f7f65cca6 <unknown>
+#4 0x559f7f65c426 <unknown>
+#5 0x559f7f65c31e <unknown>
+#6 0x559f7f65a64c <unknown>
+#7 0x559f7f65ab3f <unknown>
+#8 0x559f7f66a6eb <unknown>
+#9 0x559f7f680ab4 <unknown>
+#10 0x559f7f68615b <unknown>
+#11 0x559f7f65b24e <unknown>
+#12 0x559f7f680601 <unknown>
+#13 0x559f7f705433 <unknown>
+#14 0x559f7f6e67f3 <unknown>
+#15 0x559f7f6b6ec9 <unknown>
+#16 0x559f7f6b791e <unknown>
+#17 0x559f7f96a9eb <unknown>
+#18 0x559f7f96e972 <unknown>
+#19 0x559f7f957e15 <unknown>
+#20 0x559f7f96f502 <unknown>
+#21 0x559f7f93cd2f <unknown>
+#22 0x559f7f993578 <unknown>
+#23 0x559f7f993750 <unknown>
+#24 0x559f7f9a348c <unknown>
+#25 0x7fbe6fc5fac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/15/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55622a3286ba <unknown>
+#1 0x556229ff8571 <unknown>
+#2 0x556229fe1b06 <unknown>
+#3 0x556229fe0ca6 <unknown>
+#4 0x556229fe0426 <unknown>
+#5 0x556229fe031e <unknown>
+#6 0x556229fde64c <unknown>
+#7 0x556229fdeb3f <unknown>
+#8 0x556229fee6eb <unknown>
+#9 0x55622a004ab4 <unknown>
+#10 0x55622a00a15b <unknown>
+#11 0x556229fdf24e <unknown>
+#12 0x55622a004601 <unknown>
+#13 0x55622a089433 <unknown>
+#14 0x55622a06a7f3 <unknown>
+#15 0x55622a03aec9 <unknown>
+#16 0x55622a03b91e <unknown>
+#17 0x55622a2ee9eb <unknown>
+#18 0x55622a2f2972 <unknown>
+#19 0x55622a2dbe15 <unknown>
+#20 0x55622a2f3502 <unknown>
+#21 0x55622a2c0d2f <unknown>
+#22 0x55622a317578 <unknown>
+#23 0x55622a317750 <unknown>
+#24 0x55622a32748c <unknown>
+#25 0x7f08636a7ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/16/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x559c18fef6ba <unknown>
+#1 0x559c18cbf571 <unknown>
+#2 0x559c18ca8b06 <unknown>
+#3 0x559c18ca7ca6 <unknown>
+#4 0x559c18ca7426 <unknown>
+#5 0x559c18ca731e <unknown>
+#6 0x559c18ca564c <unknown>
+#7 0x559c18ca5b3f <unknown>
+#8 0x559c18cb56eb <unknown>
+#9 0x559c18ccbab4 <unknown>
+#10 0x559c18cd115b <unknown>
+#11 0x559c18ca624e <unknown>
+#12 0x559c18ccb601 <unknown>
+#13 0x559c18d50433 <unknown>
+#14 0x559c18d317f3 <unknown>
+#15 0x559c18d01ec9 <unknown>
+#16 0x559c18d0291e <unknown>
+#17 0x559c18fb59eb <unknown>
+#18 0x559c18fb9972 <unknown>
+#19 0x559c18fa2e15 <unknown>
+#20 0x559c18fba502 <unknown>
+#21 0x559c18f87d2f <unknown>
+#22 0x559c18fde578 <unknown>
+#23 0x559c18fde750 <unknown>
+#24 0x559c18fee48c <unknown>
+#25 0x7f2f39ae3ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/17/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5643908666ba <unknown>
+#1 0x564390536571 <unknown>
+#2 0x56439051fb06 <unknown>
+#3 0x56439051eca6 <unknown>
+#4 0x56439051e426 <unknown>
+#5 0x56439051e31e <unknown>
+#6 0x56439051c64c <unknown>
+#7 0x56439051cb3f <unknown>
+#8 0x56439052c6eb <unknown>
+#9 0x564390542ab4 <unknown>
+#10 0x56439054815b <unknown>
+#11 0x56439051d24e <unknown>
+#12 0x564390542601 <unknown>
+#13 0x5643905c7433 <unknown>
+#14 0x5643905a87f3 <unknown>
+#15 0x564390578ec9 <unknown>
+#16 0x56439057991e <unknown>
+#17 0x56439082c9eb <unknown>
+#18 0x564390830972 <unknown>
+#19 0x564390819e15 <unknown>
+#20 0x564390831502 <unknown>
+#21 0x5643907fed2f <unknown>
+#22 0x564390855578 <unknown>
+#23 0x564390855750 <unknown>
+#24 0x56439086548c <unknown>
+#25 0x7f2813956ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/18/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55ece0f4c6ba <unknown>
+#1 0x55ece0c1c571 <unknown>
+#2 0x55ece0c05b06 <unknown>
+#3 0x55ece0c04ca6 <unknown>
+#4 0x55ece0c04426 <unknown>
+#5 0x55ece0c0431e <unknown>
+#6 0x55ece0c0264c <unknown>
+#7 0x55ece0c02b3f <unknown>
+#8 0x55ece0c126eb <unknown>
+#9 0x55ece0c28ab4 <unknown>
+#10 0x55ece0c2e15b <unknown>
+#11 0x55ece0c0324e <unknown>
+#12 0x55ece0c28601 <unknown>
+#13 0x55ece0cad433 <unknown>
+#14 0x55ece0c8e7f3 <unknown>
+#15 0x55ece0c5eec9 <unknown>
+#16 0x55ece0c5f91e <unknown>
+#17 0x55ece0f129eb <unknown>
+#18 0x55ece0f16972 <unknown>
+#19 0x55ece0effe15 <unknown>
+#20 0x55ece0f17502 <unknown>
+#21 0x55ece0ee4d2f <unknown>
+#22 0x55ece0f3b578 <unknown>
+#23 0x55ece0f3b750 <unknown>
+#24 0x55ece0f4b48c <unknown>
+#25 0x7fb078e9dac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/19/xray.html: Message: unknown error: session deleted because of page crash
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x56385ddc26ba <unknown>
+#1 0x56385da92571 <unknown>
+#2 0x56385da7bb06 <unknown>
+#3 0x56385da7aca6 <unknown>
+#4 0x56385da7a426 <unknown>
+#5 0x56385da7a31e <unknown>
+#6 0x56385da792fd <unknown>
+#7 0x56385da9e601 <unknown>
+#8 0x56385db23433 <unknown>
+#9 0x56385db047f3 <unknown>
+#10 0x56385dad4ec9 <unknown>
+#11 0x56385dad591e <unknown>
+#12 0x56385dd889eb <unknown>
+#13 0x56385dd8c972 <unknown>
+#14 0x56385dd75e15 <unknown>
+#15 0x56385dd8d502 <unknown>
+#16 0x56385dd5ad2f <unknown>
+#17 0x56385ddb1578 <unknown>
+#18 0x56385ddb1750 <unknown>
+#19 0x56385ddc148c <unknown>
+#20 0x7f1397ec1ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/20/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/03/21/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55d5b92b86ba <unknown>
+#1 0x55d5b8f88571 <unknown>
+#2 0x55d5b8f71b06 <unknown>
+#3 0x55d5b8f70ca6 <unknown>
+#4 0x55d5b8f70426 <unknown>
+#5 0x55d5b8f7031e <unknown>
+#6 0x55d5b8f6e64c <unknown>
+#7 0x55d5b8f6eb3f <unknown>
+#8 0x55d5b8f7e6eb <unknown>
+#9 0x55d5b8f94ab4 <unknown>
+#10 0x55d5b8f9a15b <unknown>
+#11 0x55d5b8f6f24e <unknown>
+#12 0x55d5b8f94601 <unknown>
+#13 0x55d5b9019433 <unknown>
+#14 0x55d5b8ffa7f3 <unknown>
+#15 0x55d5b8fcaec9 <unknown>
+#16 0x55d5b8fcb91e <unknown>
+#17 0x55d5b927e9eb <unknown>
+#18 0x55d5b9282972 <unknown>
+#19 0x55d5b926be15 <unknown>
+#20 0x55d5b9283502 <unknown>
+#21 0x55d5b9250d2f <unknown>
+#22 0x55d5b92a7578 <unknown>
+#23 0x55d5b92a7750 <unknown>
+#24 0x55d5b92b748c <unknown>
+#25 0x7fd52a1d9ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/22/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x562a0a6ad6ba <unknown>
+#1 0x562a0a37d571 <unknown>
+#2 0x562a0a366b06 <unknown>
+#3 0x562a0a365ca6 <unknown>
+#4 0x562a0a365426 <unknown>
+#5 0x562a0a36531e <unknown>
+#6 0x562a0a36364c <unknown>
+#7 0x562a0a363b3f <unknown>
+#8 0x562a0a3736eb <unknown>
+#9 0x562a0a389ab4 <unknown>
+#10 0x562a0a38f15b <unknown>
+#11 0x562a0a36424e <unknown>
+#12 0x562a0a389601 <unknown>
+#13 0x562a0a40e433 <unknown>
+#14 0x562a0a3ef7f3 <unknown>
+#15 0x562a0a3bfec9 <unknown>
+#16 0x562a0a3c091e <unknown>
+#17 0x562a0a6739eb <unknown>
+#18 0x562a0a677972 <unknown>
+#19 0x562a0a660e15 <unknown>
+#20 0x562a0a678502 <unknown>
+#21 0x562a0a645d2f <unknown>
+#22 0x562a0a69c578 <unknown>
+#23 0x562a0a69c750 <unknown>
+#24 0x562a0a6ac48c <unknown>
+#25 0x7f6b8a965ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/23/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5638b88b56ba <unknown>
+#1 0x5638b8585571 <unknown>
+#2 0x5638b856eb06 <unknown>
+#3 0x5638b856dca6 <unknown>
+#4 0x5638b856d426 <unknown>
+#5 0x5638b856d31e <unknown>
+#6 0x5638b856b64c <unknown>
+#7 0x5638b856bb3f <unknown>
+#8 0x5638b857b6eb <unknown>
+#9 0x5638b8591ab4 <unknown>
+#10 0x5638b859715b <unknown>
+#11 0x5638b856c24e <unknown>
+#12 0x5638b8591601 <unknown>
+#13 0x5638b8616433 <unknown>
+#14 0x5638b85f77f3 <unknown>
+#15 0x5638b85c7ec9 <unknown>
+#16 0x5638b85c891e <unknown>
+#17 0x5638b887b9eb <unknown>
+#18 0x5638b887f972 <unknown>
+#19 0x5638b8868e15 <unknown>
+#20 0x5638b8880502 <unknown>
+#21 0x5638b884dd2f <unknown>
+#22 0x5638b88a4578 <unknown>
+#23 0x5638b88a4750 <unknown>
+#24 0x5638b88b448c <unknown>
+#25 0x7f18efb93ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/24/xray.html: Message: unknown error: session deleted because of page crash
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55f0424816ba <unknown>
+#1 0x55f042151571 <unknown>
+#2 0x55f04213ab06 <unknown>
+#3 0x55f042139ca6 <unknown>
+#4 0x55f042139426 <unknown>
+#5 0x55f04213931e <unknown>
+#6 0x55f0421382fd <unknown>
+#7 0x55f04215d601 <unknown>
+#8 0x55f0421e2433 <unknown>
+#9 0x55f0421c37f3 <unknown>
+#10 0x55f042193ec9 <unknown>
+#11 0x55f04219491e <unknown>
+#12 0x55f0424479eb <unknown>
+#13 0x55f04244b972 <unknown>
+#14 0x55f042434e15 <unknown>
+#15 0x55f04244c502 <unknown>
+#16 0x55f042419d2f <unknown>
+#17 0x55f042470578 <unknown>
+#18 0x55f042470750 <unknown>
+#19 0x55f04248048c <unknown>
+#20 0x7fab7b3d2ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/26/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55a63f25a6ba <unknown>
+#1 0x55a63ef2a571 <unknown>
+#2 0x55a63ef13b06 <unknown>
+#3 0x55a63ef12ca6 <unknown>
+#4 0x55a63ef12426 <unknown>
+#5 0x55a63ef1231e <unknown>
+#6 0x55a63ef1064c <unknown>
+#7 0x55a63ef10b3f <unknown>
+#8 0x55a63ef206eb <unknown>
+#9 0x55a63ef36ab4 <unknown>
+#10 0x55a63ef3c15b <unknown>
+#11 0x55a63ef1124e <unknown>
+#12 0x55a63ef36601 <unknown>
+#13 0x55a63efbb433 <unknown>
+#14 0x55a63ef9c7f3 <unknown>
+#15 0x55a63ef6cec9 <unknown>
+#16 0x55a63ef6d91e <unknown>
+#17 0x55a63f2209eb <unknown>
+#18 0x55a63f224972 <unknown>
+#19 0x55a63f20de15 <unknown>
+#20 0x55a63f225502 <unknown>
+#21 0x55a63f1f2d2f <unknown>
+#22 0x55a63f249578 <unknown>
+#23 0x55a63f249750 <unknown>
+#24 0x55a63f25948c <unknown>
+#25 0x7f6b88187ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/27/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x557e506866ba <unknown>
+#1 0x557e50356571 <unknown>
+#2 0x557e5033fb06 <unknown>
+#3 0x557e5033eca6 <unknown>
+#4 0x557e5033e426 <unknown>
+#5 0x557e5033e31e <unknown>
+#6 0x557e5033c64c <unknown>
+#7 0x557e5033cb3f <unknown>
+#8 0x557e5034c6eb <unknown>
+#9 0x557e50362ab4 <unknown>
+#10 0x557e5036815b <unknown>
+#11 0x557e5033d24e <unknown>
+#12 0x557e50362601 <unknown>
+#13 0x557e503e7433 <unknown>
+#14 0x557e503c87f3 <unknown>
+#15 0x557e50398ec9 <unknown>
+#16 0x557e5039991e <unknown>
+#17 0x557e5064c9eb <unknown>
+#18 0x557e50650972 <unknown>
+#19 0x557e50639e15 <unknown>
+#20 0x557e50651502 <unknown>
+#21 0x557e5061ed2f <unknown>
+#22 0x557e50675578 <unknown>
+#23 0x557e50675750 <unknown>
+#24 0x557e5068548c <unknown>
+#25 0x7f14b4ab4ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/28/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55956882d6ba <unknown>
+#1 0x5595684fd571 <unknown>
+#2 0x5595684e6b06 <unknown>
+#3 0x5595684e5ca6 <unknown>
+#4 0x5595684e5426 <unknown>
+#5 0x5595684e531e <unknown>
+#6 0x5595684e364c <unknown>
+#7 0x5595684e3b3f <unknown>
+#8 0x5595684f36eb <unknown>
+#9 0x559568509ab4 <unknown>
+#10 0x55956850f15b <unknown>
+#11 0x5595684e424e <unknown>
+#12 0x559568509601 <unknown>
+#13 0x55956858e433 <unknown>
+#14 0x55956856f7f3 <unknown>
+#15 0x55956853fec9 <unknown>
+#16 0x55956854091e <unknown>
+#17 0x5595687f39eb <unknown>
+#18 0x5595687f7972 <unknown>
+#19 0x5595687e0e15 <unknown>
+#20 0x5595687f8502 <unknown>
+#21 0x5595687c5d2f <unknown>
+#22 0x55956881c578 <unknown>
+#23 0x55956881c750 <unknown>
+#24 0x55956882c48c <unknown>
+#25 0x7f1d3f6b6ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/29/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55bac45756ba <unknown>
+#1 0x55bac4245571 <unknown>
+#2 0x55bac422eb06 <unknown>
+#3 0x55bac422dca6 <unknown>
+#4 0x55bac422d426 <unknown>
+#5 0x55bac422d31e <unknown>
+#6 0x55bac422b64c <unknown>
+#7 0x55bac422bb3f <unknown>
+#8 0x55bac423b6eb <unknown>
+#9 0x55bac4251ab4 <unknown>
+#10 0x55bac425715b <unknown>
+#11 0x55bac422c24e <unknown>
+#12 0x55bac4251601 <unknown>
+#13 0x55bac42d6433 <unknown>
+#14 0x55bac42b77f3 <unknown>
+#15 0x55bac4287ec9 <unknown>
+#16 0x55bac428891e <unknown>
+#17 0x55bac453b9eb <unknown>
+#18 0x55bac453f972 <unknown>
+#19 0x55bac4528e15 <unknown>
+#20 0x55bac4540502 <unknown>
+#21 0x55bac450dd2f <unknown>
+#22 0x55bac4564578 <unknown>
+#23 0x55bac4564750 <unknown>
+#24 0x55bac457448c <unknown>
+#25 0x7f629cb74ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/03/30/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/03/31/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5607a18326ba <unknown>
+#1 0x5607a1502571 <unknown>
+#2 0x5607a14ebb06 <unknown>
+#3 0x5607a14eaca6 <unknown>
+#4 0x5607a14ea426 <unknown>
+#5 0x5607a14ea31e <unknown>
+#6 0x5607a14e864c <unknown>
+#7 0x5607a14e8b3f <unknown>
+#8 0x5607a14f86eb <unknown>
+#9 0x5607a150eab4 <unknown>
+#10 0x5607a151415b <unknown>
+#11 0x5607a14e924e <unknown>
+#12 0x5607a150e601 <unknown>
+#13 0x5607a1593433 <unknown>
+#14 0x5607a15747f3 <unknown>
+#15 0x5607a1544ec9 <unknown>
+#16 0x5607a154591e <unknown>
+#17 0x5607a17f89eb <unknown>
+#18 0x5607a17fc972 <unknown>
+#19 0x5607a17e5e15 <unknown>
+#20 0x5607a17fd502 <unknown>
+#21 0x5607a17cad2f <unknown>
+#22 0x5607a1821578 <unknown>
+#23 0x5607a1821750 <unknown>
+#24 0x5607a183148c <unknown>
+#25 0x7fa94fdd4ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/01/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5643a49876ba <unknown>
+#1 0x5643a4657571 <unknown>
+#2 0x5643a463f2ce <unknown>
+#3 0x5643a463d64c <unknown>
+#4 0x5643a463db3f <unknown>
+#5 0x5643a464d6eb <unknown>
+#6 0x5643a4663ab4 <unknown>
+#7 0x5643a466915b <unknown>
+#8 0x5643a463e24e <unknown>
+#9 0x5643a4663601 <unknown>
+#10 0x5643a46e808f <unknown>
+#11 0x5643a46c97f3 <unknown>
+#12 0x5643a4699ec9 <unknown>
+#13 0x5643a469a91e <unknown>
+#14 0x5643a494d9eb <unknown>
+#15 0x5643a4951972 <unknown>
+#16 0x5643a493ae15 <unknown>
+#17 0x5643a4952502 <unknown>
+#18 0x5643a491fd2f <unknown>
+#19 0x5643a4976578 <unknown>
+#20 0x5643a4976750 <unknown>
+#21 0x5643a498648c <unknown>
+#22 0x7effd6e5bac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/02/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5611a763e6ba <unknown>
+#1 0x5611a730e571 <unknown>
+#2 0x5611a72f7b06 <unknown>
+#3 0x5611a72f6ca6 <unknown>
+#4 0x5611a72f6426 <unknown>
+#5 0x5611a72f631e <unknown>
+#6 0x5611a72f464c <unknown>
+#7 0x5611a72f4b3f <unknown>
+#8 0x5611a73046eb <unknown>
+#9 0x5611a731aab4 <unknown>
+#10 0x5611a732015b <unknown>
+#11 0x5611a72f524e <unknown>
+#12 0x5611a731a601 <unknown>
+#13 0x5611a739f433 <unknown>
+#14 0x5611a73807f3 <unknown>
+#15 0x5611a7350ec9 <unknown>
+#16 0x5611a735191e <unknown>
+#17 0x5611a76049eb <unknown>
+#18 0x5611a7608972 <unknown>
+#19 0x5611a75f1e15 <unknown>
+#20 0x5611a7609502 <unknown>
+#21 0x5611a75d6d2f <unknown>
+#22 0x5611a762d578 <unknown>
+#23 0x5611a762d750 <unknown>
+#24 0x5611a763d48c <unknown>
+#25 0x7f1fdf7e0ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/03/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5589a846f6ba <unknown>
+#1 0x5589a813f571 <unknown>
+#2 0x5589a8128b06 <unknown>
+#3 0x5589a8127ca6 <unknown>
+#4 0x5589a8127426 <unknown>
+#5 0x5589a812731e <unknown>
+#6 0x5589a812564c <unknown>
+#7 0x5589a8125b3f <unknown>
+#8 0x5589a81356eb <unknown>
+#9 0x5589a814bab4 <unknown>
+#10 0x5589a815115b <unknown>
+#11 0x5589a812624e <unknown>
+#12 0x5589a814b601 <unknown>
+#13 0x5589a81d0433 <unknown>
+#14 0x5589a81b17f3 <unknown>
+#15 0x5589a8181ec9 <unknown>
+#16 0x5589a818291e <unknown>
+#17 0x5589a84359eb <unknown>
+#18 0x5589a8439972 <unknown>
+#19 0x5589a8422e15 <unknown>
+#20 0x5589a843a502 <unknown>
+#21 0x5589a8407d2f <unknown>
+#22 0x5589a845e578 <unknown>
+#23 0x5589a845e750 <unknown>
+#24 0x5589a846e48c <unknown>
+#25 0x7fb5f3f6eac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/04/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x563a413fd6ba <unknown>
+#1 0x563a410cd571 <unknown>
+#2 0x563a410b6b06 <unknown>
+#3 0x563a410b5ca6 <unknown>
+#4 0x563a410b5426 <unknown>
+#5 0x563a410b531e <unknown>
+#6 0x563a410b364c <unknown>
+#7 0x563a410b3b3f <unknown>
+#8 0x563a410c36eb <unknown>
+#9 0x563a410d9ab4 <unknown>
+#10 0x563a410df15b <unknown>
+#11 0x563a410b424e <unknown>
+#12 0x563a410d9601 <unknown>
+#13 0x563a4115e433 <unknown>
+#14 0x563a4113f7f3 <unknown>
+#15 0x563a4110fec9 <unknown>
+#16 0x563a4111091e <unknown>
+#17 0x563a413c39eb <unknown>
+#18 0x563a413c7972 <unknown>
+#19 0x563a413b0e15 <unknown>
+#20 0x563a413c8502 <unknown>
+#21 0x563a41395d2f <unknown>
+#22 0x563a413ec578 <unknown>
+#23 0x563a413ec750 <unknown>
+#24 0x563a413fc48c <unknown>
+#25 0x7fda11562ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/06/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/04/07/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55ad6d1e76ba <unknown>
+#1 0x55ad6ceb7571 <unknown>
+#2 0x55ad6cea0b06 <unknown>
+#3 0x55ad6ce9fca6 <unknown>
+#4 0x55ad6ce9f426 <unknown>
+#5 0x55ad6ce9f31e <unknown>
+#6 0x55ad6ce9d64c <unknown>
+#7 0x55ad6ce9db3f <unknown>
+#8 0x55ad6cead6eb <unknown>
+#9 0x55ad6cec3ab4 <unknown>
+#10 0x55ad6cec915b <unknown>
+#11 0x55ad6ce9e24e <unknown>
+#12 0x55ad6cec3601 <unknown>
+#13 0x55ad6cf48433 <unknown>
+#14 0x55ad6cf297f3 <unknown>
+#15 0x55ad6cef9ec9 <unknown>
+#16 0x55ad6cefa91e <unknown>
+#17 0x55ad6d1ad9eb <unknown>
+#18 0x55ad6d1b1972 <unknown>
+#19 0x55ad6d19ae15 <unknown>
+#20 0x55ad6d1b2502 <unknown>
+#21 0x55ad6d17fd2f <unknown>
+#22 0x55ad6d1d6578 <unknown>
+#23 0x55ad6d1d6750 <unknown>
+#24 0x55ad6d1e648c <unknown>
+#25 0x7f6815aaaac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/08/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55860815f6ba <unknown>
+#1 0x558607e2f571 <unknown>
+#2 0x558607e172ce <unknown>
+#3 0x558607e1564c <unknown>
+#4 0x558607e15b3f <unknown>
+#5 0x558607e256eb <unknown>
+#6 0x558607e3bab4 <unknown>
+#7 0x558607e4115b <unknown>
+#8 0x558607e1624e <unknown>
+#9 0x558607e3b601 <unknown>
+#10 0x558607ec008f <unknown>
+#11 0x558607ea17f3 <unknown>
+#12 0x558607e71ec9 <unknown>
+#13 0x558607e7291e <unknown>
+#14 0x5586081259eb <unknown>
+#15 0x558608129972 <unknown>
+#16 0x558608112e15 <unknown>
+#17 0x55860812a502 <unknown>
+#18 0x5586080f7d2f <unknown>
+#19 0x55860814e578 <unknown>
+#20 0x55860814e750 <unknown>
+#21 0x55860815e48c <unknown>
+#22 0x7f10a5e35ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/09/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x564f0bab86ba <unknown>
+#1 0x564f0b788571 <unknown>
+#2 0x564f0b771b06 <unknown>
+#3 0x564f0b770ca6 <unknown>
+#4 0x564f0b770426 <unknown>
+#5 0x564f0b77031e <unknown>
+#6 0x564f0b76e64c <unknown>
+#7 0x564f0b76eb3f <unknown>
+#8 0x564f0b77e6eb <unknown>
+#9 0x564f0b794ab4 <unknown>
+#10 0x564f0b79a15b <unknown>
+#11 0x564f0b76f24e <unknown>
+#12 0x564f0b794601 <unknown>
+#13 0x564f0b819433 <unknown>
+#14 0x564f0b7fa7f3 <unknown>
+#15 0x564f0b7caec9 <unknown>
+#16 0x564f0b7cb91e <unknown>
+#17 0x564f0ba7e9eb <unknown>
+#18 0x564f0ba82972 <unknown>
+#19 0x564f0ba6be15 <unknown>
+#20 0x564f0ba83502 <unknown>
+#21 0x564f0ba50d2f <unknown>
+#22 0x564f0baa7578 <unknown>
+#23 0x564f0baa7750 <unknown>
+#24 0x564f0bab748c <unknown>
+#25 0x7ff672bc8ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/10/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x557e60f386ba <unknown>
+#1 0x557e60c08571 <unknown>
+#2 0x557e60bf1b06 <unknown>
+#3 0x557e60bf0ca6 <unknown>
+#4 0x557e60bf0426 <unknown>
+#5 0x557e60bf031e <unknown>
+#6 0x557e60bee64c <unknown>
+#7 0x557e60beeb3f <unknown>
+#8 0x557e60bfe6eb <unknown>
+#9 0x557e60c14ab4 <unknown>
+#10 0x557e60c1a15b <unknown>
+#11 0x557e60bef24e <unknown>
+#12 0x557e60c14601 <unknown>
+#13 0x557e60c99433 <unknown>
+#14 0x557e60c7a7f3 <unknown>
+#15 0x557e60c4aec9 <unknown>
+#16 0x557e60c4b91e <unknown>
+#17 0x557e60efe9eb <unknown>
+#18 0x557e60f02972 <unknown>
+#19 0x557e60eebe15 <unknown>
+#20 0x557e60f03502 <unknown>
+#21 0x557e60ed0d2f <unknown>
+#22 0x557e60f27578 <unknown>
+#23 0x557e60f27750 <unknown>
+#24 0x557e60f3748c <unknown>
+#25 0x7f7b12f43ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/11/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x558a0b9286ba <unknown>
+#1 0x558a0b5f8571 <unknown>
+#2 0x558a0b5e1b06 <unknown>
+#3 0x558a0b5e0ca6 <unknown>
+#4 0x558a0b5e0426 <unknown>
+#5 0x558a0b5e031e <unknown>
+#6 0x558a0b5de64c <unknown>
+#7 0x558a0b5deb3f <unknown>
+#8 0x558a0b5ee6eb <unknown>
+#9 0x558a0b604ab4 <unknown>
+#10 0x558a0b60a15b <unknown>
+#11 0x558a0b5df24e <unknown>
+#12 0x558a0b604601 <unknown>
+#13 0x558a0b689433 <unknown>
+#14 0x558a0b66a7f3 <unknown>
+#15 0x558a0b63aec9 <unknown>
+#16 0x558a0b63b91e <unknown>
+#17 0x558a0b8ee9eb <unknown>
+#18 0x558a0b8f2972 <unknown>
+#19 0x558a0b8dbe15 <unknown>
+#20 0x558a0b8f3502 <unknown>
+#21 0x558a0b8c0d2f <unknown>
+#22 0x558a0b917578 <unknown>
+#23 0x558a0b917750 <unknown>
+#24 0x558a0b92748c <unknown>
+#25 0x7fed3e8bfac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/12/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/04/13/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5608c22d26ba <unknown>
+#1 0x5608c1fa2571 <unknown>
+#2 0x5608c1f8bb06 <unknown>
+#3 0x5608c1f8aca6 <unknown>
+#4 0x5608c1f8a426 <unknown>
+#5 0x5608c1f8a31e <unknown>
+#6 0x5608c1f8864c <unknown>
+#7 0x5608c1f88b3f <unknown>
+#8 0x5608c1f986eb <unknown>
+#9 0x5608c1faeab4 <unknown>
+#10 0x5608c1fb415b <unknown>
+#11 0x5608c1f8924e <unknown>
+#12 0x5608c1fae601 <unknown>
+#13 0x5608c2033433 <unknown>
+#14 0x5608c20147f3 <unknown>
+#15 0x5608c1fe4ec9 <unknown>
+#16 0x5608c1fe591e <unknown>
+#17 0x5608c22989eb <unknown>
+#18 0x5608c229c972 <unknown>
+#19 0x5608c2285e15 <unknown>
+#20 0x5608c229d502 <unknown>
+#21 0x5608c226ad2f <unknown>
+#22 0x5608c22c1578 <unknown>
+#23 0x5608c22c1750 <unknown>
+#24 0x5608c22d148c <unknown>
+#25 0x7f63db32cac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/14/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55de1d7526ba <unknown>
+#1 0x55de1d422571 <unknown>
+#2 0x55de1d40bb06 <unknown>
+#3 0x55de1d40aca6 <unknown>
+#4 0x55de1d40a426 <unknown>
+#5 0x55de1d40a31e <unknown>
+#6 0x55de1d40864c <unknown>
+#7 0x55de1d408b3f <unknown>
+#8 0x55de1d4186eb <unknown>
+#9 0x55de1d42eab4 <unknown>
+#10 0x55de1d43415b <unknown>
+#11 0x55de1d40924e <unknown>
+#12 0x55de1d42e601 <unknown>
+#13 0x55de1d4b3433 <unknown>
+#14 0x55de1d4947f3 <unknown>
+#15 0x55de1d464ec9 <unknown>
+#16 0x55de1d46591e <unknown>
+#17 0x55de1d7189eb <unknown>
+#18 0x55de1d71c972 <unknown>
+#19 0x55de1d705e15 <unknown>
+#20 0x55de1d71d502 <unknown>
+#21 0x55de1d6ead2f <unknown>
+#22 0x55de1d741578 <unknown>
+#23 0x55de1d741750 <unknown>
+#24 0x55de1d75148c <unknown>
+#25 0x7f1b03aa9ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/15/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55e1a93256ba <unknown>
+#1 0x55e1a8ff5571 <unknown>
+#2 0x55e1a8fdeb06 <unknown>
+#3 0x55e1a8fddca6 <unknown>
+#4 0x55e1a8fdd426 <unknown>
+#5 0x55e1a8fdd31e <unknown>
+#6 0x55e1a8fdb64c <unknown>
+#7 0x55e1a8fdbb3f <unknown>
+#8 0x55e1a8feb6eb <unknown>
+#9 0x55e1a9001ab4 <unknown>
+#10 0x55e1a900715b <unknown>
+#11 0x55e1a8fdc24e <unknown>
+#12 0x55e1a9001601 <unknown>
+#13 0x55e1a9086433 <unknown>
+#14 0x55e1a90677f3 <unknown>
+#15 0x55e1a9037ec9 <unknown>
+#16 0x55e1a903891e <unknown>
+#17 0x55e1a92eb9eb <unknown>
+#18 0x55e1a92ef972 <unknown>
+#19 0x55e1a92d8e15 <unknown>
+#20 0x55e1a92f0502 <unknown>
+#21 0x55e1a92bdd2f <unknown>
+#22 0x55e1a9314578 <unknown>
+#23 0x55e1a9314750 <unknown>
+#24 0x55e1a932448c <unknown>
+#25 0x7f472eccfac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/16/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55e6b0e116ba <unknown>
+#1 0x55e6b0ae1571 <unknown>
+#2 0x55e6b0acab06 <unknown>
+#3 0x55e6b0ac9ca6 <unknown>
+#4 0x55e6b0ac9426 <unknown>
+#5 0x55e6b0ac931e <unknown>
+#6 0x55e6b0ac764c <unknown>
+#7 0x55e6b0ac7b3f <unknown>
+#8 0x55e6b0ad76eb <unknown>
+#9 0x55e6b0aedab4 <unknown>
+#10 0x55e6b0af315b <unknown>
+#11 0x55e6b0ac824e <unknown>
+#12 0x55e6b0aed601 <unknown>
+#13 0x55e6b0b72433 <unknown>
+#14 0x55e6b0b537f3 <unknown>
+#15 0x55e6b0b23ec9 <unknown>
+#16 0x55e6b0b2491e <unknown>
+#17 0x55e6b0dd79eb <unknown>
+#18 0x55e6b0ddb972 <unknown>
+#19 0x55e6b0dc4e15 <unknown>
+#20 0x55e6b0ddc502 <unknown>
+#21 0x55e6b0da9d2f <unknown>
+#22 0x55e6b0e00578 <unknown>
+#23 0x55e6b0e00750 <unknown>
+#24 0x55e6b0e1048c <unknown>
+#25 0x7f7888249ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/17/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/04/18/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5606029786ba <unknown>
+#1 0x560602648571 <unknown>
+#2 0x560602631b06 <unknown>
+#3 0x560602630ca6 <unknown>
+#4 0x560602630426 <unknown>
+#5 0x56060263031e <unknown>
+#6 0x56060262e64c <unknown>
+#7 0x56060262eb3f <unknown>
+#8 0x56060263e6eb <unknown>
+#9 0x560602654ab4 <unknown>
+#10 0x56060265a15b <unknown>
+#11 0x56060262f24e <unknown>
+#12 0x560602654601 <unknown>
+#13 0x5606026d9433 <unknown>
+#14 0x5606026ba7f3 <unknown>
+#15 0x56060268aec9 <unknown>
+#16 0x56060268b91e <unknown>
+#17 0x56060293e9eb <unknown>
+#18 0x560602942972 <unknown>
+#19 0x56060292be15 <unknown>
+#20 0x560602943502 <unknown>
+#21 0x560602910d2f <unknown>
+#22 0x560602967578 <unknown>
+#23 0x560602967750 <unknown>
+#24 0x56060297748c <unknown>
+#25 0x7fdbee5fdac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/19/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5562b93136ba <unknown>
+#1 0x5562b8fe3571 <unknown>
+#2 0x5562b8fccb06 <unknown>
+#3 0x5562b8fcbca6 <unknown>
+#4 0x5562b8fcb426 <unknown>
+#5 0x5562b8fcb31e <unknown>
+#6 0x5562b8fc964c <unknown>
+#7 0x5562b8fc9b3f <unknown>
+#8 0x5562b8fd96eb <unknown>
+#9 0x5562b8fefab4 <unknown>
+#10 0x5562b8ff515b <unknown>
+#11 0x5562b8fca24e <unknown>
+#12 0x5562b8fef601 <unknown>
+#13 0x5562b9074433 <unknown>
+#14 0x5562b90557f3 <unknown>
+#15 0x5562b9025ec9 <unknown>
+#16 0x5562b902691e <unknown>
+#17 0x5562b92d99eb <unknown>
+#18 0x5562b92dd972 <unknown>
+#19 0x5562b92c6e15 <unknown>
+#20 0x5562b92de502 <unknown>
+#21 0x5562b92abd2f <unknown>
+#22 0x5562b9302578 <unknown>
+#23 0x5562b9302750 <unknown>
+#24 0x5562b931248c <unknown>
+#25 0x7fa93e92dac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/20/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x556510bce6ba <unknown>
+#1 0x55651089e571 <unknown>
+#2 0x556510887b06 <unknown>
+#3 0x556510886ca6 <unknown>
+#4 0x556510886426 <unknown>
+#5 0x55651088631e <unknown>
+#6 0x55651088464c <unknown>
+#7 0x556510884b3f <unknown>
+#8 0x5565108946eb <unknown>
+#9 0x5565108aaab4 <unknown>
+#10 0x5565108b015b <unknown>
+#11 0x55651088524e <unknown>
+#12 0x5565108aa601 <unknown>
+#13 0x55651092f433 <unknown>
+#14 0x5565109107f3 <unknown>
+#15 0x5565108e0ec9 <unknown>
+#16 0x5565108e191e <unknown>
+#17 0x556510b949eb <unknown>
+#18 0x556510b98972 <unknown>
+#19 0x556510b81e15 <unknown>
+#20 0x556510b99502 <unknown>
+#21 0x556510b66d2f <unknown>
+#22 0x556510bbd578 <unknown>
+#23 0x556510bbd750 <unknown>
+#24 0x556510bcd48c <unknown>
+#25 0x7fa31516aac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/21/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5622f17f96ba <unknown>
+#1 0x5622f14c9571 <unknown>
+#2 0x5622f14b2b06 <unknown>
+#3 0x5622f14b1ca6 <unknown>
+#4 0x5622f14b1426 <unknown>
+#5 0x5622f14b131e <unknown>
+#6 0x5622f14af64c <unknown>
+#7 0x5622f14afb3f <unknown>
+#8 0x5622f14bf6eb <unknown>
+#9 0x5622f14d5ab4 <unknown>
+#10 0x5622f14db15b <unknown>
+#11 0x5622f14b024e <unknown>
+#12 0x5622f14d5601 <unknown>
+#13 0x5622f155a433 <unknown>
+#14 0x5622f153b7f3 <unknown>
+#15 0x5622f150bec9 <unknown>
+#16 0x5622f150c91e <unknown>
+#17 0x5622f17bf9eb <unknown>
+#18 0x5622f17c3972 <unknown>
+#19 0x5622f17ace15 <unknown>
+#20 0x5622f17c4502 <unknown>
+#21 0x5622f1791d2f <unknown>
+#22 0x5622f17e8578 <unknown>
+#23 0x5622f17e8750 <unknown>
+#24 0x5622f17f848c <unknown>
+#25 0x7fd8b1928ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/22/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55743bbcd6ba <unknown>
+#1 0x55743b89d571 <unknown>
+#2 0x55743b886b06 <unknown>
+#3 0x55743b885ca6 <unknown>
+#4 0x55743b885426 <unknown>
+#5 0x55743b88531e <unknown>
+#6 0x55743b88364c <unknown>
+#7 0x55743b883b3f <unknown>
+#8 0x55743b8936eb <unknown>
+#9 0x55743b8a9ab4 <unknown>
+#10 0x55743b8af15b <unknown>
+#11 0x55743b88424e <unknown>
+#12 0x55743b8a9601 <unknown>
+#13 0x55743b92e433 <unknown>
+#14 0x55743b90f7f3 <unknown>
+#15 0x55743b8dfec9 <unknown>
+#16 0x55743b8e091e <unknown>
+#17 0x55743bb939eb <unknown>
+#18 0x55743bb97972 <unknown>
+#19 0x55743bb80e15 <unknown>
+#20 0x55743bb98502 <unknown>
+#21 0x55743bb65d2f <unknown>
+#22 0x55743bbbc578 <unknown>
+#23 0x55743bbbc750 <unknown>
+#24 0x55743bbcc48c <unknown>
+#25 0x7fdbfdf7fac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/23/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x556e527ff6ba <unknown>
+#1 0x556e524cf571 <unknown>
+#2 0x556e524b8b06 <unknown>
+#3 0x556e524b7ca6 <unknown>
+#4 0x556e524b7426 <unknown>
+#5 0x556e524b731e <unknown>
+#6 0x556e524b564c <unknown>
+#7 0x556e524b5b3f <unknown>
+#8 0x556e524c56eb <unknown>
+#9 0x556e524dbab4 <unknown>
+#10 0x556e524e115b <unknown>
+#11 0x556e524b624e <unknown>
+#12 0x556e524db601 <unknown>
+#13 0x556e52560433 <unknown>
+#14 0x556e525417f3 <unknown>
+#15 0x556e52511ec9 <unknown>
+#16 0x556e5251291e <unknown>
+#17 0x556e527c59eb <unknown>
+#18 0x556e527c9972 <unknown>
+#19 0x556e527b2e15 <unknown>
+#20 0x556e527ca502 <unknown>
+#21 0x556e52797d2f <unknown>
+#22 0x556e527ee578 <unknown>
+#23 0x556e527ee750 <unknown>
+#24 0x556e527fe48c <unknown>
+#25 0x7f243feb9ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/26/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/04/27/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x56377cbe96ba <unknown>
+#1 0x56377c8b9571 <unknown>
+#2 0x56377c8a2b06 <unknown>
+#3 0x56377c8a1ca6 <unknown>
+#4 0x56377c8a1426 <unknown>
+#5 0x56377c8a131e <unknown>
+#6 0x56377c89f64c <unknown>
+#7 0x56377c89fb3f <unknown>
+#8 0x56377c8af6eb <unknown>
+#9 0x56377c8c5ab4 <unknown>
+#10 0x56377c8cb15b <unknown>
+#11 0x56377c8a024e <unknown>
+#12 0x56377c8c5601 <unknown>
+#13 0x56377c94a433 <unknown>
+#14 0x56377c92b7f3 <unknown>
+#15 0x56377c8fbec9 <unknown>
+#16 0x56377c8fc91e <unknown>
+#17 0x56377cbaf9eb <unknown>
+#18 0x56377cbb3972 <unknown>
+#19 0x56377cb9ce15 <unknown>
+#20 0x56377cbb4502 <unknown>
+#21 0x56377cb81d2f <unknown>
+#22 0x56377cbd8578 <unknown>
+#23 0x56377cbd8750 <unknown>
+#24 0x56377cbe848c <unknown>
+#25 0x7f5b75b05ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/28/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5588754d76ba <unknown>
+#1 0x5588751a7571 <unknown>
+#2 0x558875190b06 <unknown>
+#3 0x55887518fca6 <unknown>
+#4 0x55887518f426 <unknown>
+#5 0x55887518f31e <unknown>
+#6 0x55887518d64c <unknown>
+#7 0x55887518db3f <unknown>
+#8 0x55887519d6eb <unknown>
+#9 0x5588751b3ab4 <unknown>
+#10 0x5588751b915b <unknown>
+#11 0x55887518e24e <unknown>
+#12 0x5588751b3601 <unknown>
+#13 0x55887523808f <unknown>
+#14 0x5588752197f3 <unknown>
+#15 0x5588751e9ec9 <unknown>
+#16 0x5588751ea91e <unknown>
+#17 0x55887549d9eb <unknown>
+#18 0x5588754a1972 <unknown>
+#19 0x55887548ae15 <unknown>
+#20 0x5588754a2502 <unknown>
+#21 0x55887546fd2f <unknown>
+#22 0x5588754c6578 <unknown>
+#23 0x5588754c6750 <unknown>
+#24 0x5588754d648c <unknown>
+#25 0x7f586bd8eac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/29/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x56511994d6ba <unknown>
+#1 0x56511961d571 <unknown>
+#2 0x565119606b06 <unknown>
+#3 0x565119605ca6 <unknown>
+#4 0x565119605426 <unknown>
+#5 0x56511960531e <unknown>
+#6 0x56511960364c <unknown>
+#7 0x565119603b3f <unknown>
+#8 0x5651196136eb <unknown>
+#9 0x565119629ab4 <unknown>
+#10 0x56511962f15b <unknown>
+#11 0x56511960424e <unknown>
+#12 0x565119629601 <unknown>
+#13 0x5651196ae433 <unknown>
+#14 0x56511968f7f3 <unknown>
+#15 0x56511965fec9 <unknown>
+#16 0x56511966091e <unknown>
+#17 0x5651199139eb <unknown>
+#18 0x565119917972 <unknown>
+#19 0x565119900e15 <unknown>
+#20 0x565119918502 <unknown>
+#21 0x5651198e5d2f <unknown>
+#22 0x56511993c578 <unknown>
+#23 0x56511993c750 <unknown>
+#24 0x56511994c48c <unknown>
+#25 0x7fbd1ebb5ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/04/30/xray.html: Message: unknown error: session deleted because of page crash
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x561dbf0f16ba <unknown>
+#1 0x561dbedc1571 <unknown>
+#2 0x561dbedaab06 <unknown>
+#3 0x561dbeda9ca6 <unknown>
+#4 0x561dbeda9426 <unknown>
+#5 0x561dbeda931e <unknown>
+#6 0x561dbeda82fd <unknown>
+#7 0x561dbedcd601 <unknown>
+#8 0x561dbee52433 <unknown>
+#9 0x561dbee337f3 <unknown>
+#10 0x561dbee03ec9 <unknown>
+#11 0x561dbee0491e <unknown>
+#12 0x561dbf0b79eb <unknown>
+#13 0x561dbf0bb972 <unknown>
+#14 0x561dbf0a4e15 <unknown>
+#15 0x561dbf0bc502 <unknown>
+#16 0x561dbf089d2f <unknown>
+#17 0x561dbf0e0578 <unknown>
+#18 0x561dbf0e0750 <unknown>
+#19 0x561dbf0f048c <unknown>
+#20 0x7fb11ee44ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/05/01/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55abbc8ef6ba <unknown>
+#1 0x55abbc5bf571 <unknown>
+#2 0x55abbc5a8b06 <unknown>
+#3 0x55abbc5a7ca6 <unknown>
+#4 0x55abbc5a7426 <unknown>
+#5 0x55abbc5a731e <unknown>
+#6 0x55abbc5a564c <unknown>
+#7 0x55abbc5a5b3f <unknown>
+#8 0x55abbc5b56eb <unknown>
+#9 0x55abbc5cbab4 <unknown>
+#10 0x55abbc5d115b <unknown>
+#11 0x55abbc5a624e <unknown>
+#12 0x55abbc5cb601 <unknown>
+#13 0x55abbc650433 <unknown>
+#14 0x55abbc6317f3 <unknown>
+#15 0x55abbc601ec9 <unknown>
+#16 0x55abbc60291e <unknown>
+#17 0x55abbc8b59eb <unknown>
+#18 0x55abbc8b9972 <unknown>
+#19 0x55abbc8a2e15 <unknown>
+#20 0x55abbc8ba502 <unknown>
+#21 0x55abbc887d2f <unknown>
+#22 0x55abbc8de578 <unknown>
+#23 0x55abbc8de750 <unknown>
+#24 0x55abbc8ee48c <unknown>
+#25 0x7f34846f3ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/05/02/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x561850f2e6ba <unknown>
+#1 0x561850bfe571 <unknown>
+#2 0x561850be7b06 <unknown>
+#3 0x561850be6ca6 <unknown>
+#4 0x561850be6426 <unknown>
+#5 0x561850be631e <unknown>
+#6 0x561850be464c <unknown>
+#7 0x561850be4b3f <unknown>
+#8 0x561850bf46eb <unknown>
+#9 0x561850c0aab4 <unknown>
+#10 0x561850c1015b <unknown>
+#11 0x561850be524e <unknown>
+#12 0x561850c0a601 <unknown>
+#13 0x561850c8f433 <unknown>
+#14 0x561850c707f3 <unknown>
+#15 0x561850c40ec9 <unknown>
+#16 0x561850c4191e <unknown>
+#17 0x561850ef49eb <unknown>
+#18 0x561850ef8972 <unknown>
+#19 0x561850ee1e15 <unknown>
+#20 0x561850ef9502 <unknown>
+#21 0x561850ec6d2f <unknown>
+#22 0x561850f1d578 <unknown>
+#23 0x561850f1d750 <unknown>
+#24 0x561850f2d48c <unknown>
+#25 0x7f9febd94ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/05/03/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55d969a936ba <unknown>
+#1 0x55d969763571 <unknown>
+#2 0x55d96974cb06 <unknown>
+#3 0x55d96974bca6 <unknown>
+#4 0x55d96974b426 <unknown>
+#5 0x55d96974b31e <unknown>
+#6 0x55d96974964c <unknown>
+#7 0x55d969749b3f <unknown>
+#8 0x55d9697596eb <unknown>
+#9 0x55d96976fab4 <unknown>
+#10 0x55d96977515b <unknown>
+#11 0x55d96974a24e <unknown>
+#12 0x55d96976f601 <unknown>
+#13 0x55d9697f4433 <unknown>
+#14 0x55d9697d57f3 <unknown>
+#15 0x55d9697a5ec9 <unknown>
+#16 0x55d9697a691e <unknown>
+#17 0x55d969a599eb <unknown>
+#18 0x55d969a5d972 <unknown>
+#19 0x55d969a46e15 <unknown>
+#20 0x55d969a5e502 <unknown>
+#21 0x55d969a2bd2f <unknown>
+#22 0x55d969a82578 <unknown>
+#23 0x55d969a82750 <unknown>
+#24 0x55d969a9248c <unknown>
+#25 0x7fa02cbd2ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/05/04/xray.html: Message: unknown error: session deleted because of page crash
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x56082df426ba <unknown>
+#1 0x56082dc12571 <unknown>
+#2 0x56082dbfbb06 <unknown>
+#3 0x56082dbfaca6 <unknown>
+#4 0x56082dbfa426 <unknown>
+#5 0x56082dbfa31e <unknown>
+#6 0x56082dbf92fd <unknown>
+#7 0x56082dc1e601 <unknown>
+#8 0x56082dca3433 <unknown>
+#9 0x56082dc847f3 <unknown>
+#10 0x56082dc54ec9 <unknown>
+#11 0x56082dc5591e <unknown>
+#12 0x56082df089eb <unknown>
+#13 0x56082df0c972 <unknown>
+#14 0x56082def5e15 <unknown>
+#15 0x56082df0d502 <unknown>
+#16 0x56082dedad2f <unknown>
+#17 0x56082df31578 <unknown>
+#18 0x56082df31750 <unknown>
+#19 0x56082df4148c <unknown>
+#20 0x7fc5c4b70ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/05/05/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x562ae8c2b6ba <unknown>
+#1 0x562ae88fb571 <unknown>
+#2 0x562ae88e32ce <unknown>
+#3 0x562ae88e164c <unknown>
+#4 0x562ae88e1b3f <unknown>
+#5 0x562ae88f16eb <unknown>
+#6 0x562ae8907ab4 <unknown>
+#7 0x562ae890d15b <unknown>
+#8 0x562ae88e224e <unknown>
+#9 0x562ae8907601 <unknown>
+#10 0x562ae898c08f <unknown>
+#11 0x562ae896d7f3 <unknown>
+#12 0x562ae893dec9 <unknown>
+#13 0x562ae893e91e <unknown>
+#14 0x562ae8bf19eb <unknown>
+#15 0x562ae8bf5972 <unknown>
+#16 0x562ae8bdee15 <unknown>
+#17 0x562ae8bf6502 <unknown>
+#18 0x562ae8bc3d2f <unknown>
+#19 0x562ae8c1a578 <unknown>
+#20 0x562ae8c1a750 <unknown>
+#21 0x562ae8c2a48c <unknown>
+#22 0x7f3ddda2fac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/05/06/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x560d565ba6ba <unknown>
+#1 0x560d5628a571 <unknown>
+#2 0x560d56273b06 <unknown>
+#3 0x560d56272ca6 <unknown>
+#4 0x560d56272426 <unknown>
+#5 0x560d5627231e <unknown>
+#6 0x560d5627064c <unknown>
+#7 0x560d56270b3f <unknown>
+#8 0x560d562806eb <unknown>
+#9 0x560d56296ab4 <unknown>
+#10 0x560d5629c15b <unknown>
+#11 0x560d5627124e <unknown>
+#12 0x560d56296601 <unknown>
+#13 0x560d5631b433 <unknown>
+#14 0x560d562fc7f3 <unknown>
+#15 0x560d562ccec9 <unknown>
+#16 0x560d562cd91e <unknown>
+#17 0x560d565809eb <unknown>
+#18 0x560d56584972 <unknown>
+#19 0x560d5656de15 <unknown>
+#20 0x560d56585502 <unknown>
+#21 0x560d56552d2f <unknown>
+#22 0x560d565a9578 <unknown>
+#23 0x560d565a9750 <unknown>
+#24 0x560d565b948c <unknown>
+#25 0x7fb671562ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/05/07/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x55faab88b6ba <unknown>
+#1 0x55faab55b571 <unknown>
+#2 0x55faab544b06 <unknown>
+#3 0x55faab543ca6 <unknown>
+#4 0x55faab543426 <unknown>
+#5 0x55faab54331e <unknown>
+#6 0x55faab54164c <unknown>
+#7 0x55faab541b3f <unknown>
+#8 0x55faab5516eb <unknown>
+#9 0x55faab567ab4 <unknown>
+#10 0x55faab56d15b <unknown>
+#11 0x55faab54224e <unknown>
+#12 0x55faab567601 <unknown>
+#13 0x55faab5ec433 <unknown>
+#14 0x55faab5cd7f3 <unknown>
+#15 0x55faab59dec9 <unknown>
+#16 0x55faab59e91e <unknown>
+#17 0x55faab8519eb <unknown>
+#18 0x55faab855972 <unknown>
+#19 0x55faab83ee15 <unknown>
+#20 0x55faab856502 <unknown>
+#21 0x55faab823d2f <unknown>
+#22 0x55faab87a578 <unknown>
+#23 0x55faab87a750 <unknown>
+#24 0x55faab88a48c <unknown>
+#25 0x7f9e7d85fac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/05/08/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x5610454426ba <unknown>
+#1 0x561045112571 <unknown>
+#2 0x5610450fbb06 <unknown>
+#3 0x5610450faca6 <unknown>
+#4 0x5610450fa426 <unknown>
+#5 0x5610450fa31e <unknown>
+#6 0x5610450f864c <unknown>
+#7 0x5610450f8b3f <unknown>
+#8 0x5610451086eb <unknown>
+#9 0x56104511eab4 <unknown>
+#10 0x56104512415b <unknown>
+#11 0x5610450f924e <unknown>
+#12 0x56104511e601 <unknown>
+#13 0x5610451a3433 <unknown>
+#14 0x5610451847f3 <unknown>
+#15 0x561045154ec9 <unknown>
+#16 0x56104515591e <unknown>
+#17 0x5610454089eb <unknown>
+#18 0x56104540c972 <unknown>
+#19 0x5610453f5e15 <unknown>
+#20 0x56104540d502 <unknown>
+#21 0x5610453dad2f <unknown>
+#22 0x561045431578 <unknown>
+#23 0x561045431750 <unknown>
+#24 0x56104544148c <unknown>
+#25 0x7f8fc29d1ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/05/09/xray.html: Message: unknown error: session deleted because of page crash
+from unknown error: cannot determine loading status
+from tab crashed
+  (Session info: chrome-headless-shell=127.0.6533.72)
+Stacktrace:
+#0 0x564c54d7a6ba <unknown>
+#1 0x564c54a4a571 <unknown>
+#2 0x564c54a33b06 <unknown>
+#3 0x564c54a32ca6 <unknown>
+#4 0x564c54a32426 <unknown>
+#5 0x564c54a3231e <unknown>
+#6 0x564c54a3064c <unknown>
+#7 0x564c54a30b3f <unknown>
+#8 0x564c54a406eb <unknown>
+#9 0x564c54a56ab4 <unknown>
+#10 0x564c54a5c15b <unknown>
+#11 0x564c54a3124e <unknown>
+#12 0x564c54a56601 <unknown>
+#13 0x564c54adb433 <unknown>
+#14 0x564c54abc7f3 <unknown>
+#15 0x564c54a8cec9 <unknown>
+#16 0x564c54a8d91e <unknown>
+#17 0x564c54d409eb <unknown>
+#18 0x564c54d44972 <unknown>
+#19 0x564c54d2de15 <unknown>
+#20 0x564c54d45502 <unknown>
+#21 0x564c54d12d2f <unknown>
+#22 0x564c54d69578 <unknown>
+#23 0x564c54d69750 <unknown>
+#24 0x564c54d7948c <unknown>
+#25 0x7fefbc108ac3 <unknown>
+
+https://www.spaceweatherlive.com/en/archive/2015/05/10/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/11/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/12/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/13/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/14/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/15/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/16/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/17/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/18/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/19/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/20/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/21/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/22/xray.html: 'NoneType' object has no attribute 'find_all'
+https://www.spaceweatherlive.com/en/archive/2015/05/23/xray.html: 'NoneType' object has no attribute 'find_all'
