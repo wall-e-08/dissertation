@@ -1,4 +1,5 @@
 import re
+import pandas as pd
 
 
 def get_date_from_swlive_website(url):
@@ -11,3 +12,4 @@ def get_date_from_swlive_website(url):
 
   return None
 
+convert_to_pd_timestamp = lambda x: int(pd.Timestamp(x).timestamp())
